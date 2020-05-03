@@ -1,0 +1,2984 @@
+fileFormatVersion: 2
+guid: ed566c1c39b227c45b66b7e0568b92a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5277038996758060573
+    second: candle palette 2_0
+  - first:
+      213: -467379690774855836
+    second: candle palette 2_1
+  - first:
+      213: -1915795578322913799
+    second: candle palette 2_2
+  - first:
+      213: 6154984770212777013
+    second: candle palette 2_3
+  - first:
+      213: 3960908267983140053
+    second: candle palette 2_4
+  - first:
+      213: -3146813411893309787
+    second: candle palette 2_5
+  - first:
+      213: -2552617352571963597
+    second: candle palette 2_6
+  - first:
+      213: -2580117787551307265
+    second: candle palette 2_7
+  - first:
+      213: 4352364090215898486
+    second: candle palette 2_8
+  - first:
+      213: -6663736276568366954
+    second: candle palette 2_9
+  - first:
+      213: 2553212100526732880
+    second: candle palette 2_10
+  - first:
+      213: 8415163630992781448
+    second: candle palette 2_11
+  - first:
+      213: 465777442544209627
+    second: candle palette 2_12
+  - first:
+      213: 1275516108500265662
+    second: candle palette 2_13
+  - first:
+      213: 382740659878190564
+    second: candle palette 2_14
+  - first:
+      213: -3671871767433004817
+    second: candle palette 2_15
+  - first:
+      213: 8557979464838028099
+    second: candle palette 2_16
+  - first:
+      213: 8643981565671981663
+    second: candle palette 2_17
+  - first:
+      213: -802763225777672764
+    second: candle palette 2_18
+  - first:
+      213: 4033316374985468976
+    second: candle palette 2_19
+  - first:
+      213: 2696502481424060882
+    second: candle palette 2_20
+  - first:
+      213: 7950508101029264753
+    second: candle palette 2_21
+  - first:
+      213: 3813254019867394931
+    second: candle palette 2_22
+  - first:
+      213: -567419523778056060
+    second: candle palette 2_23
+  - first:
+      213: -5994589336971266310
+    second: candle palette 2_24
+  - first:
+      213: -1208688862398479700
+    second: candle palette 2_25
+  - first:
+      213: 5595551361696555749
+    second: candle palette 2_26
+  - first:
+      213: -3645407096641519786
+    second: candle palette 2_27
+  - first:
+      213: -7393795442142340639
+    second: candle palette 2_28
+  - first:
+      213: 7807093989598757602
+    second: candle palette 2_29
+  - first:
+      213: 2376570272532348887
+    second: candle palette 2_30
+  - first:
+      213: -4066619776479357792
+    second: candle palette 2_31
+  - first:
+      213: 234661340115952375
+    second: candle palette 2_32
+  - first:
+      213: -7836844921053455375
+    second: candle palette 2_33
+  - first:
+      213: 2275220860171700862
+    second: candle palette 2_34
+  - first:
+      213: 3501683169425518489
+    second: candle palette 2_35
+  - first:
+      213: 648106588824707143
+    second: candle palette 2_36
+  - first:
+      213: -7044766892178701335
+    second: candle palette 2_37
+  - first:
+      213: 56669635263034542
+    second: candle palette 2_38
+  - first:
+      213: 2060969416199980105
+    second: candle palette 2_39
+  - first:
+      213: 3905802525518430386
+    second: candle palette 2_40
+  - first:
+      213: -2933936453559679355
+    second: candle palette 2_41
+  - first:
+      213: -4619636394100528738
+    second: candle palette 2_42
+  - first:
+      213: 7870034056289394376
+    second: candle palette 2_43
+  - first:
+      213: -193845397069323099
+    second: candle palette 2_44
+  - first:
+      213: 2662868748329546563
+    second: candle palette 2_45
+  - first:
+      213: 8293668559685565056
+    second: candle palette 2_46
+  - first:
+      213: -6858868443375456139
+    second: candle palette 2_47
+  - first:
+      213: 2005252697956582413
+    second: candle palette 2_48
+  - first:
+      213: -792083690010461753
+    second: candle palette 2_49
+  - first:
+      213: -739292369662043701
+    second: candle palette 2_50
+  - first:
+      213: -7879883820819727105
+    second: candle palette 2_51
+  - first:
+      213: -6571316731153419203
+    second: candle palette 2_52
+  - first:
+      213: 267630151406168674
+    second: candle palette 2_53
+  - first:
+      213: -69337663392780468
+    second: candle palette 2_54
+  - first:
+      213: 362627331539315687
+    second: candle palette 2_55
+  - first:
+      213: -3773722042732633352
+    second: candle palette 2_56
+  - first:
+      213: -5436213475486862672
+    second: candle palette 2_57
+  - first:
+      213: -8960796996430877001
+    second: candle palette 2_58
+  - first:
+      213: -2038386972821487093
+    second: candle palette 2_59
+  - first:
+      213: -782943330966545546
+    second: candle palette 2_60
+  - first:
+      213: -9052397137810665571
+    second: candle palette 2_61
+  - first:
+      213: -3377474646581960396
+    second: candle palette 2_62
+  - first:
+      213: -9065933374619001028
+    second: candle palette 2_63
+  - first:
+      213: 3691941495452772919
+    second: candle palette 2_64
+  - first:
+      213: 1835195326059385305
+    second: candle palette 2_65
+  - first:
+      213: 1398650786805502120
+    second: candle palette 2_66
+  - first:
+      213: -4888970195533780112
+    second: candle palette 2_67
+  - first:
+      213: 2755459761105822345
+    second: candle palette 2_68
+  - first:
+      213: -778974823033726165
+    second: candle palette 2_69
+  - first:
+      213: 4823774378459948215
+    second: candle palette 2_70
+  - first:
+      213: -8102912293771992771
+    second: candle palette 2_71
+  - first:
+      213: -5964916669889058692
+    second: candle palette 2_72
+  - first:
+      213: -7464626946459242301
+    second: candle palette 2_73
+  - first:
+      213: -2601488222566058255
+    second: candle palette 2_74
+  - first:
+      213: 5328840609129469852
+    second: candle palette 2_75
+  - first:
+      213: -3392237221073497265
+    second: candle palette 2_76
+  - first:
+      213: -3696769507771910373
+    second: candle palette 2_77
+  - first:
+      213: 953132006864951338
+    second: candle palette 2_78
+  - first:
+      213: 5291494476017322259
+    second: candle palette 2_79
+  - first:
+      213: 1772772448507696877
+    second: candle palette 2_80
+  - first:
+      213: 5379713194553493498
+    second: candle palette 2_81
+  - first:
+      213: -560254706210432466
+    second: candle palette 2_82
+  - first:
+      213: -9031764046120696879
+    second: candle palette 2_83
+  - first:
+      213: 7947223727192016879
+    second: candle palette 2_84
+  - first:
+      213: -5781882187922490115
+    second: candle palette 2_85
+  - first:
+      213: -567464997625294521
+    second: candle palette 2_86
+  - first:
+      213: 8309133702566911604
+    second: candle palette 2_87
+  - first:
+      213: -390124859647889473
+    second: candle palette 2_88
+  - first:
+      213: -2195712651361706914
+    second: candle palette 2_89
+  - first:
+      213: -2455211451767088051
+    second: candle palette 2_90
+  - first:
+      213: 4271884016243142374
+    second: candle palette 2_91
+  - first:
+      213: -5655327619383232052
+    second: candle palette 2_92
+  - first:
+      213: 7850947008282783110
+    second: candle palette 2_93
+  - first:
+      213: -8940237742762732911
+    second: candle palette 2_94
+  - first:
+      213: -6924515372475842675
+    second: candle palette 2_95
+  - first:
+      213: 3349131785297864613
+    second: candle palette 2_96
+  - first:
+      213: -8346140686579096768
+    second: candle palette 2_97
+  - first:
+      213: -6683768865447375490
+    second: candle palette 2_98
+  - first:
+      213: 6013597864826553484
+    second: candle palette 2_99
+  - first:
+      213: 1980723080502209772
+    second: candle palette 2_100
+  - first:
+      213: -2969694584143530936
+    second: candle palette 2_101
+  - first:
+      213: 6691597016368020402
+    second: candle palette 2_102
+  - first:
+      213: -7854564868226931148
+    second: candle palette 2_103
+  - first:
+      213: -8419079679539399920
+    second: candle palette 2_104
+  - first:
+      213: -1411946283244106212
+    second: candle palette 2_105
+  - first:
+      213: 8598920601172155346
+    second: candle palette 2_106
+  - first:
+      213: 4827339133538718085
+    second: candle palette 2_107
+  - first:
+      213: -5679282107989840946
+    second: candle palette 2_108
+  - first:
+      213: -3882935708286212008
+    second: candle palette 2_109
+  - first:
+      213: -4515551471597053840
+    second: candle palette 2_110
+  - first:
+      213: -1551352063118634214
+    second: candle palette 2_111
+  - first:
+      213: 8400015618904512995
+    second: candle palette 2_112
+  - first:
+      213: -2359477421853727752
+    second: candle palette 2_113
+  - first:
+      213: 896638586159225001
+    second: candle palette 2_114
+  - first:
+      213: -5326530124786920558
+    second: candle palette 2_115
+  - first:
+      213: 6938101752845878560
+    second: candle palette 2_116
+  - first:
+      213: -8939998078357376082
+    second: candle palette 2_117
+  - first:
+      213: -3857536972865671877
+    second: candle palette 2_118
+  - first:
+      213: -2478886321973762681
+    second: candle palette 2_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candle palette 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed5a3320fcb3940800000000000000
+      internalID: 5277038996758060573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ff124c5a88389f0800000000000000
+      internalID: -467379690774855836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57cc3621ab965e0800000000000000
+      internalID: -1915795578322913799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc87ab906ea6550800000000000000
+      internalID: 6154984770212777013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fa0d7519f7f630800000000000000
+      internalID: 3960908267983140053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0aa9dfd54454d0800000000000000
+      internalID: -3146813411893309787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337337cca08439cd0800000000000000
+      internalID: -2552617352571963597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96652da84913cd0800000000000000
+      internalID: -2580117787551307265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1c7a8414b66c30800000000000000
+      internalID: 4352364090215898486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69022469927a583a0800000000000000
+      internalID: -6663736276568366954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ff10c0e4de6320800000000000000
+      internalID: 2553212100526732880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807c18acbaa8c470800000000000000
+      internalID: 8415163630992781448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdecc3fbd16c67600800000000000000
+      internalID: 465777442544209627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6278842b83b110800000000000000
+      internalID: 1275516108500265662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed53213a94cf4500800000000000000
+      internalID: 382740659878190564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8be59f414ea0dc0800000000000000
+      internalID: -3671871767433004817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b12cc2bfc04c670800000000000000
+      internalID: 8557979464838028099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5247eaaf6795f770800000000000000
+      internalID: 8643981565671981663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd66c079130cd4f0800000000000000
+      internalID: -802763225777672764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c66c5afd739f730800000000000000
+      internalID: 4033316374985468976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19d3d58b6eb6520800000000000000
+      internalID: 2696502481424060882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df6b98ef0e55e60800000000000000
+      internalID: 7950508101029264753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c68cd3566be430800000000000000
+      internalID: 3813254019867394931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480769e03fe1028f0800000000000000
+      internalID: -567419523778056060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6bb7b32c0fecca0800000000000000
+      internalID: -5994589336971266310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca284c032efd93fe0800000000000000
+      internalID: -1208688862398479700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26064215467ad40800000000000000
+      internalID: 5595551361696555749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f7efe4f89e86dc0800000000000000
+      internalID: -3645407096641519786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e914392836f36990800000000000000
+      internalID: -7393795442142340639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20f1aae9e585c60800000000000000
+      internalID: 7807093989598757602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df3b0e32164bf020800000000000000
+      internalID: 2376570272532348887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49e52fbd67097c0800000000000000
+      internalID: -4066619776479357792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e02cde3fa14300800000000000000
+      internalID: 234661340115952375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd8c0d01fed3390800000000000000
+      internalID: -7836844921053455375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac7145155339f10800000000000000
+      internalID: 2275220860171700862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f62953a4a789030800000000000000
+      internalID: 3501683169425518489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ac7b32898ef800800000000000000
+      internalID: 648106588824707143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3814a16d5fb3e90800000000000000
+      internalID: -7044766892178701335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea47767abb459c000800000000000000
+      internalID: 56669635263034542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444b89b3c80a9c10800000000000000
+      internalID: 2060969416199980105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0895004b2343630800000000000000
+      internalID: 3905802525518430386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586810417509847d0800000000000000
+      internalID: -2933936453559679355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99eb2aec21c3efb0800000000000000
+      internalID: -4619636394100528738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1b57e64af73d60800000000000000
+      internalID: 7870034056289394376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a65e63a25f4df0800000000000000
+      internalID: -193845397069323099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343fba3a40964f420800000000000000
+      internalID: 2662868748329546563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a32e00d97091370800000000000000
+      internalID: 8293668559685565056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57038779d7760d0a0800000000000000
+      internalID: -6858868443375456139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04889a54b614db10800000000000000
+      internalID: 2005252697956582413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9bb80a414f105f0800000000000000
+      internalID: -792083690010461753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc91329b1818db5f0800000000000000
+      internalID: -739292369662043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc31b41a6705a290800000000000000
+      internalID: -7879883820819727105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f405df3efdc4a0800000000000000
+      internalID: -6571316731153419203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aafb96430d6b300800000000000000
+      internalID: 267630151406168674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4feae333c9a90ff0800000000000000
+      internalID: -69337663392780468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebaf3203af480500800000000000000
+      internalID: 362627331539315687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22cd1dbcb01abc0800000000000000
+      internalID: -3773722042732633352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f96675a0be84b0800000000000000
+      internalID: -5436213475486862672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea95bab9ad4a380800000000000000
+      internalID: -8960796996430877001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02013a19d136b3e0800000000000000
+      internalID: -2038386972821487093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5a7e403d6225f0800000000000000
+      internalID: -782943330966545546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f480bc3cc6f5280800000000000000
+      internalID: -9052397137810665571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431289c14bcc021d0800000000000000
+      internalID: -3377474646581960396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd97011a55f2280800000000000000
+      internalID: -9065933374619001028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aacf7ba396c3330800000000000000
+      internalID: 3691941495452772919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11a3ffc6ce77910800000000000000
+      internalID: 1835195326059385305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dc50fa71096310800000000000000
+      internalID: 1398650786805502120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_67
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bacb19283e62cb0800000000000000
+      internalID: -4888970195533780112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982689dbd0c5d3620800000000000000
+      internalID: 2755459761105822345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1a1096868035f0800000000000000
+      internalID: -778974823033726165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46cb06d3d71f240800000000000000
+      internalID: 4823774378459948215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31239b233cac8f80800000000000000
+      internalID: -8102912293771992771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e47864eb583da0800000000000000
+      internalID: -5964916669889058692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fc7b6751586890800000000000000
+      internalID: -7464626946459242301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6769eae38a5ebd0800000000000000
+      internalID: -2601488222566058255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9796d3fc48d3f940800000000000000
+      internalID: 5328840609129469852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_76
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435e04683a5ce0d0800000000000000
+      internalID: -3392237221073497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1772c018bf62bcc0800000000000000
+      internalID: -3696769507771910373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289d35a2843a3d00800000000000000
+      internalID: 953132006864951338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31944fdb03a2f6940800000000000000
+      internalID: 5291494476017322259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de696ec36272a9810800000000000000
+      internalID: 1772772448507696877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7c7d2c5a498aa40800000000000000
+      internalID: 5379713194553493498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a169420539938f0800000000000000
+      internalID: -560254706210432466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c4dfc37ab8a280800000000000000
+      internalID: -9031764046120696879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_84
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe706d9afd53a4e60800000000000000
+      internalID: 7947223727192016879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb8b7a8c0a2cfa0800000000000000
+      internalID: -5781882187922490115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741931a5795ff18f0800000000000000
+      internalID: -567464997625294521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_87
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1abc2419ff4370800000000000000
+      internalID: 8309133702566911604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf63a2d18ff59af0800000000000000
+      internalID: -390124859647889473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c11ca1af24781e0800000000000000
+      internalID: -2195712651361706914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c93f061365dedd0800000000000000
+      internalID: -2455211451767088051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee67dd11e7c84b30800000000000000
+      internalID: 4271884016243142374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f43e4e7d3481b0800000000000000
+      internalID: -5655327619383232052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6c1b35ba24fc60800000000000000
+      internalID: 7850947008282783110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192561fe325ede380800000000000000
+      internalID: -8940237742762732911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f78d5d4fd27ef90800000000000000
+      internalID: -6924515372475842675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_96
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a726a04d918a7e20800000000000000
+      internalID: 3349131785297864613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_97
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a40be34d8c2c80800000000000000
+      internalID: -8346140686579096768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d813601ab7e33a0800000000000000
+      internalID: -6683768865447375490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c80b8567947350800000000000000
+      internalID: 6013597864826553484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_100
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec60cbb521fc7b10800000000000000
+      internalID: 1980723080502209772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_101
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84439b4828689c6d0800000000000000
+      internalID: -2969694584143530936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfda468045ddc50800000000000000
+      internalID: 6691597016368020402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_103
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436221c1edafef290800000000000000
+      internalID: -7854564868226931148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013385d33ab692b80800000000000000
+      internalID: -8419079679539399920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4d411652c76ce0800000000000000
+      internalID: -1411946283244106212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_106
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db97ac4ab0855770800000000000000
+      internalID: 8598920601172155346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581dae89d572ef240800000000000000
+      internalID: 4827339133538718085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecba80e43032f21b0800000000000000
+      internalID: -5679282107989840946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858abe5cb8a0d1ac0800000000000000
+      internalID: -3882935708286212008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078177a6cd98551c0800000000000000
+      internalID: -4515551471597053840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_111
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139e3c948d787ae0800000000000000
+      internalID: -1551352063118634214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9598043b9d29470800000000000000
+      internalID: 8400015618904512995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3aade29c3714fd0800000000000000
+      internalID: -2359477421853727752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8dde32b00817c00800000000000000
+      internalID: 896638586159225001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29398aa921d5416b0800000000000000
+      internalID: -5326530124786920558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c4e9d8c6194060800000000000000
+      internalID: 6938101752845878560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea375d62d1fbee380800000000000000
+      internalID: -8939998078357376082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3de760bf86477ac0800000000000000
+      internalID: -3857536972865671877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle palette 2_119
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785ed2c160a399dd0800000000000000
+      internalID: -2478886321973762681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

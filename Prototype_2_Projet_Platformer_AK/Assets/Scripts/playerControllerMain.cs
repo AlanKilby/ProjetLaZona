@@ -84,7 +84,7 @@ public class playerControllerMain : MonoBehaviour
             playerVerticalMovement = Input.GetAxisRaw("Vertical");
         }
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && !playerWall.isWallGrabbing)
         {
             playerJump.PlayerJump();
             
@@ -119,7 +119,7 @@ public class playerControllerMain : MonoBehaviour
         }
 
 
-        if (Input.GetButton("Grab"))
+        if (Input.GetButton("Grab") && !isJumpingUp)
         {
             playerWall.WallGrab();
         } 

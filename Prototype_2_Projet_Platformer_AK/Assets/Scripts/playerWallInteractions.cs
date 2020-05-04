@@ -20,25 +20,32 @@ public class playerWallInteractions : MonoBehaviour
         {
             playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerRB.velocity.x, playerInputCheckMain.playerRB.velocity.y);
         }
-        else if (playerInputCheckMain.isTouchingWall && !playerInputCheckMain.isGrounded && !isWallGrabbing || grabTimeHolder <= 0)
+        
+        else if (playerInputCheckMain.isTouchingWall && !playerInputCheckMain.isGrounded && !isWallGrabbing)
         {
             playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerRB.velocity.x, -playerInputCheckMain.slideSpeed);
         }
-        else if (isWallGrabbing && grabTimeHolder > 0)
+        
+        else if (isWallGrabbing)
         {
             playerInputCheckMain.playerRB.velocity = new Vector2(0, playerInputCheckMain.playerVerticalMovement);
             playerInputCheckMain.canMoveHorizontally = false;
             playerInputCheckMain.canFlip = false;
 
             if (Input.GetButtonDown("Jump"))
-                playerJump.PlayerJump();
-        }   
+            {
+                playerInputCheckMain.canFlip = true;
+
+                playerJump.GrabJump();
+            }
+        }
+
     }
 
 
     public void WallGrab()
     {
-        if (playerInputCheckMain.isTouchingWall)
+        if (playerInputCheckMain.isTouchingWall && grabTimeHolder > 0)
         {
             isWallGrabbing = true;
             playerInputCheckMain.canMoveHorizontally = false;
@@ -46,7 +53,7 @@ public class playerWallInteractions : MonoBehaviour
             grabTimeHolder -= Time.deltaTime;
 
         }
-        else if (!playerInputCheckMain.isTouchingWall || playerInputCheckMain.isJumpingUp)
+        else if (!playerInputCheckMain.isTouchingWall || playerInputCheckMain.isJumpingUp || grabTimeHolder <=0)
         {
             isWallGrabbing = false;
             playerInputCheckMain.playerRB.gravityScale = gravityScaleHolder;

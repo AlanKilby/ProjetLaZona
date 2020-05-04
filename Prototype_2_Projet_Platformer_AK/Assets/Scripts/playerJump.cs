@@ -43,6 +43,22 @@ public class playerJump : MonoBehaviour
 
     }
 
+
+    public void GrabJump()
+    {
+        if (playerWall.isWallGrabbing)
+        {
+            playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerRB.velocity.x, playerInputCheckMain.jumpSpeed);
+        }
+
+        if (playerInputCheckMain.playerRB.velocity.y > 0)
+        {
+            playerWall.isWallGrabbing = false;
+
+            playerInputCheckMain.isJumpingUp = true;
+        }
+    }
+
     public void BetterJump()
     {
         if (playerInputCheckMain.jumpCounter == 0 && !playerDash.isDashing)
@@ -60,4 +76,6 @@ public class playerJump : MonoBehaviour
 
         }
     }
+
+
 }

@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 6f35937bb70bd9a4682adf08aef30d88
+guid: 33ec5a11a30d63c42bccc9cfd80abd51
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8305358921124636501
-    second: confetti_0
+      213: 1825430324076772057
+    second: confetti_1_0
   - first:
-      213: -3669871625027106796
-    second: confetti_1
+      213: 1354037713950502049
+    second: confetti_1_1
   - first:
-      213: -7470921316310872362
-    second: confetti_2
+      213: -6564151192663441995
+    second: confetti_1_2
   - first:
-      213: 3161764022972267380
-    second: confetti_3
+      213: -4790000481272609192
+    second: confetti_1_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,7 +99,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: confetti_0
+      name: confetti_1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -113,14 +113,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba89e3e90107dbc80800000000000000
-      internalID: -8305358921124636501
+      spriteID: 9da72dc453b355910800000000000000
+      internalID: 1825430324076772057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: confetti_1
+      name: confetti_1_1
       rect:
         serializedVersion: 2
         x: 10
@@ -134,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41849fa633ff11dc0800000000000000
-      internalID: -3669871625027106796
+      spriteID: 1ac608870228ac210800000000000000
+      internalID: 1354037713950502049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: confetti_2
+      name: confetti_1_2
       rect:
         serializedVersion: 2
         x: 20
@@ -155,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6de856c35a4f15890800000000000000
-      internalID: -7470921316310872362
+      spriteID: 5bdb655c44377e4a0800000000000000
+      internalID: -6564151192663441995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: confetti_3
+      name: confetti_1_3
       rect:
         serializedVersion: 2
         x: 30
@@ -176,8 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47b3fdc80a7d0eb20800000000000000
-      internalID: 3161764022972267380
+      spriteID: 856cbc7d0ff768db0800000000000000
+      internalID: -4790000481272609192
       vertices: []
       indices: 
       edges: []

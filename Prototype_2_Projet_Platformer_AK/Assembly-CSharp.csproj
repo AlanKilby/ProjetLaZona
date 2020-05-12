@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\playerMovement.cs" />
     <Compile Include="Assets\Scripts\playerRespawn.cs" />
     <Compile Include="Assets\Scripts\playerWallInteractions.cs" />
+    <Compile Include="Assets\Scripts\spikeScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/alan/Documents/UnityProjectsAK/ProjetLaZona/Prototype_2_Projet_Platformer_AK/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

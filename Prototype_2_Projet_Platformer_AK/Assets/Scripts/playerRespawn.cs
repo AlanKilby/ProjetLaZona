@@ -8,7 +8,7 @@ public class playerRespawn : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "KillZone")
+        if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
             playerInputCheckMain.playerRB.position = playerInputCheckMain.respawnPoint;
         }

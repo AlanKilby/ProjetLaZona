@@ -18,16 +18,17 @@ public class fallPlatform : MonoBehaviour
 
     public bool isTouchingGround;
 
+    public Vector3 initialPosition; 
+
     void Start()
     {
         platformRB = GetComponent<Rigidbody2D>();
         platformRB.gravityScale = 0;
+        initialPosition = platformRB.transform.position;
     }
     private void Update()
     {
-        //Physics2D.Raycast(groundcheck1.position,-transform.up, checkDistance,ground);
-        //Physics2D.Raycast(groundcheck3.position, -transform.up, checkDistance, ground);
-        //Physics2D.OverlapCircle(groundcheck2.position, checkDistance, ground);
+        
         isTouchingGround = Physics2D.Raycast(groundcheck2.position, -transform.up, checkDistance, ground);
         
 
@@ -41,10 +42,7 @@ public class fallPlatform : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        //Gizmos.DrawLine(groundcheck1.position, new Vector3(groundcheck1.position.x, groundcheck1.position.y - checkDistance));
         Gizmos.DrawLine(groundcheck2.position, new Vector3(groundcheck2.position.x, groundcheck2.position.y - checkDistance));
-        //Gizmos.DrawLine(groundcheck3.position, new Vector3(groundcheck3.position.x, groundcheck1.position.y - checkDistance));
-        //Gizmos.DrawWireSphere(groundcheck2.position, checkDistance);
     }
 
     private void OnCollisionEnter2D(Collision2D collider)
@@ -52,6 +50,8 @@ public class fallPlatform : MonoBehaviour
         if (collider.gameObject.CompareTag("Player") && !isTouchingGround)
         {
             Invoke("DropPlatform", standingTime);
+
+            Invoke("GetBackUp", standingTime*3);
         }
 
     }
@@ -62,5 +62,11 @@ public class fallPlatform : MonoBehaviour
     {
         platformRB.velocity = new Vector2(0, -fallingSpeed);
 
+    }
+
+    private void GetBackUp()
+    {
+        platformRB.velocity = new Vector2(0, 0);
+        platformRB.transform.position = initialPosition;
     }
 }

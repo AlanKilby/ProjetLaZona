@@ -118,6 +118,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInputCheckMain: {fileID: 0}
   playerDash: {fileID: 0}
+  pinataCollider: {fileID: 1231281258069491097}
+  pinataSprite: {fileID: 1231281258069491093}
+  respawnTimer: 3
 --- !u!61 &1231281258069491097
 BoxCollider2D:
   m_ObjectHideFlags: 0

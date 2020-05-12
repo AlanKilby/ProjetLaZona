@@ -9,7 +9,11 @@ public class pinataExtraDash : MonoBehaviour
 
     public playerDash playerDash;
 
-    
+    public BoxCollider2D pinataCollider;
+
+    public SpriteRenderer pinataSprite;
+
+    public float respawnTimer;
 
     private void OnTriggerEnter2D(Collider2D player)
     {
@@ -17,7 +21,16 @@ public class pinataExtraDash : MonoBehaviour
         {
             playerDash.groundCheckForDashBonus = true;
             //playerInputCheckMain.canMoveHorizontally = true;
-            Destroy(gameObject);
+            pinataCollider.enabled = false;
+            pinataSprite.enabled = false;
+
+            Invoke("PinataRespawn", respawnTimer);
         }
+    }
+
+    private void PinataRespawn()
+    {
+        pinataCollider.enabled = true;
+        pinataSprite.enabled = true;
     }
 }

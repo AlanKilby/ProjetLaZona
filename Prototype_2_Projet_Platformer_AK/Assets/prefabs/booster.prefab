@@ -98,6 +98,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInputCheckMain: {fileID: 0}
   playerDash: {fileID: 0}
+  boosterCollider: {fileID: 1648361499655479154}
+  boosterSprite: {fileID: 1648361499655479156}
+  respawnTimer: 3
 --- !u!61 &1648361499655479154
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c00d87dcb32d79047a3845b4e7a4bb61, type: 3}
+  m_Name: animatedtile_spikes2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1005633698132775155, guid: f918bcdb67aa6b24aabf62ba8aa479f2, type: 3}
+  - {fileID: 6051122176530513407, guid: f918bcdb67aa6b24aabf62ba8aa479f2, type: 3}
+  - {fileID: 8305509757224377070, guid: f918bcdb67aa6b24aabf62ba8aa479f2, type: 3}
+  - {fileID: 6516456135816132672, guid: f918bcdb67aa6b24aabf62ba8aa479f2, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

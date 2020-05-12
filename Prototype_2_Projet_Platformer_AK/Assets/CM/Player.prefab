@@ -78,6 +78,7 @@ GameObject:
   - component: {fileID: 678793801682245419}
   - component: {fileID: 678793801682245418}
   - component: {fileID: 678793801682245429}
+  - component: {fileID: 3211958544985443830}
   - component: {fileID: 678793801682245428}
   m_Layer: 10
   m_Name: Player
@@ -231,6 +232,7 @@ MonoBehaviour:
   slideSpeed: 0.5
   grabTime: 3
   coyoteTime: 0.3
+  respawnPoint: {x: 0, y: 0, z: 0}
   groundCheck: {fileID: 678793800903974518}
   wallCheck: {fileID: 678793800768455311}
   ground:
@@ -327,6 +329,23 @@ MonoBehaviour:
   gravityScaleHolder: 0
   grabTimeHolder: 0
   isWallGrabbing: 0
+--- !u!114 &3211958544985443830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678793801682245411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f18c4714d0a367945a6b5da703c757b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerAnim: {fileID: 678793801682245428}
+  playerInputCheckMain: {fileID: 678793801682245417}
+  playerJump: {fileID: 678793801682245416}
+  playerDash: {fileID: 678793801682245419}
+  playerWall: {fileID: 678793801682245429}
 --- !u!95 &678793801682245428
 Animator:
   serializedVersion: 3

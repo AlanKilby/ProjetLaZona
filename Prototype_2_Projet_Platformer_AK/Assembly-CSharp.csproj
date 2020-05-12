@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\fallingPlatform.cs" />
     <Compile Include="Assets\Scripts\pinataBooster.cs" />
     <Compile Include="Assets\Scripts\pinataExtraDash.cs" />
+    <Compile Include="Assets\Scripts\playerAnimation.cs" />
     <Compile Include="Assets\Scripts\playerControllerMain.cs" />
     <Compile Include="Assets\Scripts\playerDash.cs" />
     <Compile Include="Assets\Scripts\playerFlip.cs" />

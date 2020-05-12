@@ -25,7 +25,8 @@ public class playerControllerMain : MonoBehaviour
     public float slideSpeed;
     public float grabTime;
     public float coyoteTime;
-    
+
+    public Vector3 respawnPoint;
 
     public Transform groundCheck;
     public Transform wallCheck;

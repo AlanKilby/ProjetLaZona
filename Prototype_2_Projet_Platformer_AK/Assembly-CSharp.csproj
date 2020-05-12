@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AnimatedTile\AnimatedTile.cs" />
      <Compile Include="Assets\CM\Room.cs" />
      <Compile Include="Assets\Scripts\fallPlatform.cs" />
      <Compile Include="Assets\Scripts\fallingPlatform.cs" />

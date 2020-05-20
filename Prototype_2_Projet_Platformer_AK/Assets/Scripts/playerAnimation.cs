@@ -19,7 +19,8 @@ public class playerAnimation : MonoBehaviour
             playerAnim.SetBool("isRunning", true);
             Debug.Log("True");
         }
-        else if(playerInputCheckMain.isGrounded && playerInputCheckMain.playerRB.velocity.x == 0)
+
+        if(playerInputCheckMain.isGrounded && playerInputCheckMain.playerHorizontalMovement == 0 || playerInputCheckMain.isTouchingWall)
         {
             playerAnim.SetBool("isRunning", false);
         }
@@ -37,16 +38,42 @@ public class playerAnimation : MonoBehaviour
         }
 
 
-        //Jumping State
-        if (playerInputCheckMain.isJumpingUp)
+        ////Jumping State
+        //if (Input.GetKey("Jump") && playerInputCheckMain.isGrounded == false)
+        //{
+        //    playerAnim.SetBool("isJumping", true);
+
+        //}
+
+        //else 
+        //{
+        //    playerAnim.SetBool("isJumping", false);
+
+        //}
+
+
+        //Grabbing State
+        if (playerWall.isWallGrabbing)
         {
-            playerAnim.SetBool("isJumping", true);
+            playerAnim.SetBool("isWallGrabbing", true);
+        }
+        
+        if(!playerWall.isWallGrabbing)
+        {
+            playerAnim.SetBool("isWallGrabbing", false);
+        }
+
+
+        //Climbing State
+        if (playerWall.isWallGrabbing && playerInputCheckMain.playerVerticalMovement > 0)
+        {
+            playerAnim.SetBool("isClimbing", true);
+            playerAnim.SetBool("isRunning", false);
 
         }
         else
         {
-            playerAnim.SetBool("isJumping", false);
-
+            playerAnim.SetBool("isClimbing", false);
         }
     }
 }

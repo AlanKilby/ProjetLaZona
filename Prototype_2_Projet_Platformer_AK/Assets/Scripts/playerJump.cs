@@ -37,6 +37,11 @@ public class playerJump : MonoBehaviour
             {
                 playerInputCheckMain.isJumpingUp = true;
             }
+
+            if(playerInputCheckMain.playerRB.velocity.y < 0)
+            {
+                playerInputCheckMain.isFalling = false;
+            }
             
 
         }

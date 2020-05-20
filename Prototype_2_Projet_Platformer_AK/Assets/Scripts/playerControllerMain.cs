@@ -36,6 +36,7 @@ public class playerControllerMain : MonoBehaviour
     public bool isGrounded;
     public bool isTouchingWall;
     public bool isJumpingUp;
+    public bool isFalling;
     public bool canMoveHorizontally;
     public bool canMoveVertically;
     public bool canMove;

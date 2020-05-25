@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Prototype_2_Projet_Platformer_AK/Assets/Scenes/MainMenu.unity.meta
 guid: 51c10a883fe03a04688f21a6825efeab
+=======
+guid: 829d35c83d26cdb4ba0892a683fb1073
+folderAsset: yes
+>>>>>>> master:Prototype_2_Projet_Platformer_AK/Assets/Graphics/props/Sprites/mariachi_animation/mariachi animation pour animator.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

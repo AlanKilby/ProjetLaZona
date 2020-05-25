@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 19e3e0f001ee8de4eb36b8ecd9888178
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4127813844192733171
+    second: export de logo QUI MARCHE_0
+  - first:
+      213: 3932143017196772931
+    second: export de logo QUI MARCHE_1
+  - first:
+      213: 146616911468683307
+    second: export de logo QUI MARCHE_2
+  - first:
+      213: 7252960019192043148
+    second: export de logo QUI MARCHE_3
+  - first:
+      213: 4644184067324731520
+    second: export de logo QUI MARCHE_4
+  - first:
+      213: -3636062106481040451
+    second: export de logo QUI MARCHE_5
+  - first:
+      213: 5172265675028727908
+    second: export de logo QUI MARCHE_6
+  - first:
+      213: 1069096949860948076
+    second: export de logo QUI MARCHE_7
+  - first:
+      213: 602478264975766775
+    second: export de logo QUI MARCHE_8
+  - first:
+      213: 2537660410176579177
+    second: export de logo QUI MARCHE_9
+  - first:
+      213: 3669332895102062591
+    second: export de logo QUI MARCHE_10
+  - first:
+      213: -8196938679778798416
+    second: export de logo QUI MARCHE_11
+  - first:
+      213: 1529673924666061587
+    second: export de logo QUI MARCHE_12
+  - first:
+      213: 7504831342295876377
+    second: export de logo QUI MARCHE_13
+  - first:
+      213: 3299962376435976366
+    second: export de logo QUI MARCHE_14
+  - first:
+      213: -2644598202412596604
+    second: export de logo QUI MARCHE_15
+  - first:
+      213: -4765437933414800725
+    second: export de logo QUI MARCHE_16
+  - first:
+      213: 1849449269917958588
+    second: export de logo QUI MARCHE_17
+  - first:
+      213: -2383234383556071426
+    second: export de logo QUI MARCHE_18
+  - first:
+      213: -2771590145987879797
+    second: export de logo QUI MARCHE_19
+  - first:
+      213: -8115546251258220587
+    second: export de logo QUI MARCHE_20
+  - first:
+      213: 3868857120518897026
+    second: export de logo QUI MARCHE_21
+  - first:
+      213: 9217914187866876332
+    second: export de logo QUI MARCHE_22
+  - first:
+      213: -6746538945497913363
+    second: export de logo QUI MARCHE_23
+  - first:
+      213: -5232687229191386984
+    second: export de logo QUI MARCHE_24
+  - first:
+      213: -3934512533045913679
+    second: export de logo QUI MARCHE_25
+  - first:
+      213: 2216705002066359794
+    second: export de logo QUI MARCHE_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d3f5cd2f07b6c0800000000000000
+      internalID: -4127813844192733171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 430
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edb02ad37c19630800000000000000
+      internalID: 3932143017196772931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 430
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e72edd43e80200800000000000000
+      internalID: 146616911468683307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 430
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865d0aa5b0b7a460800000000000000
+      internalID: 7252960019192043148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 430
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806b64adc4737040800000000000000
+      internalID: 4644184067324731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db360f167cc1a8dc0800000000000000
+      internalID: -3636062106481040451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 344
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46888044a3497c740800000000000000
+      internalID: 5172265675028727908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 344
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685ae6f20236de00800000000000000
+      internalID: 1069096949860948076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_8
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 344
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f436c83ace6c5800800000000000000
+      internalID: 602478264975766775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 344
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a52da2b4973320800000000000000
+      internalID: 2537660410176579177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc63fb3d61ce230800000000000000
+      internalID: 3669332895102062591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4102233bf9e3e80800000000000000
+      internalID: -8196938679778798416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 258
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f5e5745e7a3510800000000000000
+      internalID: 1529673924666061587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 258
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91383c0f754862860800000000000000
+      internalID: 7504831342295876377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 258
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ce932c42dbcd20800000000000000
+      internalID: 3299962376435976366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4828f8352ff7c4bd0800000000000000
+      internalID: -2644598202412596604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 172
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a3aba273cdddb0800000000000000
+      internalID: -4765437933414800725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 172
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c09bef409aa910800000000000000
+      internalID: 1849449269917958588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 172
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa4af74fc0deed0800000000000000
+      internalID: -2383234383556071426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_19
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 172
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5b6d52755989d0800000000000000
+      internalID: -2771590145987879797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2087bea9cf5f80800000000000000
+      internalID: -8115546251258220587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 86
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df4439d01f0b530800000000000000
+      internalID: 3868857120518897026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 86
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a6d18d1c9cef70800000000000000
+      internalID: 9217914187866876332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 86
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72242e29a7f52a0800000000000000
+      internalID: -6746538945497913363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_24
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 86
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898035360b2c167b0800000000000000
+      internalID: -5232687229191386984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d97772bdc569c0800000000000000
+      internalID: -3934512533045913679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: export de logo QUI MARCHE_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 247
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53ffb647153ce10800000000000000
+      internalID: 2216705002066359794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

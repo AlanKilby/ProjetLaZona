@@ -75,5 +75,17 @@ public class playerAnimation : MonoBehaviour
         {
             playerAnim.SetBool("isClimbing", false);
         }
+
+        //Grounded Check
+        if (!playerInputCheckMain.isGrounded)
+        {
+            playerAnim.SetBool("isGrounded", false);
+
+        }
+        else if (playerInputCheckMain.isGrounded)
+        {
+            playerAnim.SetBool("isGrounded", true);
+
+        }
     }
 }

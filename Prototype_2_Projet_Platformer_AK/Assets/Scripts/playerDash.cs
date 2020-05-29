@@ -7,6 +7,8 @@ public class playerDash : MonoBehaviour
     public playerControllerMain playerInputCheckMain;
     public playerFlip playerFlip;
     public playerWallInteractions playerWall;
+    public freezer freezer;
+    public shaker shaker;
 
     public bool isDashing;
     public bool groundCheckForDash;
@@ -25,6 +27,8 @@ public class playerDash : MonoBehaviour
     {
         if (groundCheckForDash)
         {
+            freezer.Freeze();
+            shaker.Shake();
             isDashing = true;
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDash = false;
@@ -34,6 +38,8 @@ public class playerDash : MonoBehaviour
 
         if (groundCheckForDashBonus)
         {
+            freezer.Freeze();
+            shaker.Shake();
             isDashing = true;
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDashBonus = false;
@@ -81,6 +87,10 @@ public class playerDash : MonoBehaviour
 
         }
     }
+
+
+    
+
 
     //public void WallDash()
     //{

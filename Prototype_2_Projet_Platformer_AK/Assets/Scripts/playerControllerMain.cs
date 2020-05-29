@@ -10,6 +10,8 @@ public class playerControllerMain : MonoBehaviour
     public playerDash playerDash;
     public playerFlip playerFlip;
     public playerWallInteractions playerWall;
+
+    public GameObject dashParticles;
     
     public float playerHorizontalMovement;
     public float playerVerticalMovement;
@@ -55,6 +57,9 @@ public class playerControllerMain : MonoBehaviour
         canMove = true;
         playerJump.coyoteTimeHolder = coyoteTime;
         justJumped = false;
+
+        dashParticles.SetActive(true);
+
     }
 
     // Update is called once per frame

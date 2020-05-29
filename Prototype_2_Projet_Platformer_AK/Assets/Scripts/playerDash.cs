@@ -33,6 +33,7 @@ public class playerDash : MonoBehaviour
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDash = false;
             playerInputCheckMain.canFlip = true;
+            playerInputCheckMain.dashParticles.SetActive(true);
 
         }
 
@@ -44,6 +45,8 @@ public class playerDash : MonoBehaviour
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDashBonus = false;
             playerInputCheckMain.canFlip = true;
+            playerInputCheckMain.dashParticles.SetActive(true);
+
         }
     }
 
@@ -51,6 +54,7 @@ public class playerDash : MonoBehaviour
     {
         if (isDashing)
         {
+
             groundCheckForDash = false;
             if (dashTimeLeft > 0 && (playerInputCheckMain.playerHorizontalMovement != 0 || playerInputCheckMain.playerVerticalMovement != 0))
             {
@@ -82,15 +86,28 @@ public class playerDash : MonoBehaviour
 
                 playerInputCheckMain.canMove = true;
 
+                
+
             }
 
 
         }
+        else if (!isDashing)
+        {
+
+            playerInputCheckMain.dashParticles.SetActive(false);
+
+        }
+
+
     }
 
 
     
-
+    private void NoMoreParticles()
+    {
+        playerInputCheckMain.dashParticles.SetActive(false);
+    }
 
     //public void WallDash()
     //{

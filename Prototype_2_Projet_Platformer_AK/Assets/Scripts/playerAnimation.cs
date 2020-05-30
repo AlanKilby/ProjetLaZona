@@ -38,6 +38,19 @@ public class playerAnimation : MonoBehaviour
         }
 
 
+
+        // Any State WallSlide
+        if(playerInputCheckMain.isTouchingWall && !playerWall.isWallGrabbing && !playerInputCheckMain.isGrounded)
+        {
+            playerAnim.SetBool("isWallSliding", true);
+        }
+        else
+        {
+            playerAnim.SetBool("isWallSliding", false);
+
+        }
+
+
         ////Jumping State
         //if (Input.GetKey("Jump") && playerInputCheckMain.isGrounded == false)
         //{

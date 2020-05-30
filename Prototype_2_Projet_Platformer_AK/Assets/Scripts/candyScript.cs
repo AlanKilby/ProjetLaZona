@@ -17,7 +17,7 @@ public class candyScript : MonoBehaviour
     {
         if (player.gameObject.CompareTag("Player"))
         {
-            finalScore.collectedCollectibles++;
+            ScoreStore.collectedCollectibles++;
             candyCollider.enabled = false;
             candyRenderer.enabled = false;
         }

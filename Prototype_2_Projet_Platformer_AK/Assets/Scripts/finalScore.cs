@@ -3,42 +3,44 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.SceneManagement;
 
 
 public class finalScore : MonoBehaviour
 {
-    public float timer;
-    public float deathCounter;
-    public float maxCollectibles;
-    public float collectedCollectibles;
-    public float finalScoreGrade;
+    
 
     public bool stopScore;
 
     public GameObject ScoreCanvas;
 
+    public int currentDeaths;
+
+    public int maxCollectibles;
+
 
     public void Start()
     {
         ScoreCanvas.SetActive(false);
-        deathCounter = 0;
-        collectedCollectibles = 0;
+        ScoreStore.deathCounter = currentDeaths;
+        ScoreStore.maxCollectibles = maxCollectibles;
+        ScoreStore.collectedCollectibles = 0;
         stopScore = false;
     }
     public void Update()
     {
         if (!stopScore)
         {
-            timer += Time.deltaTime;
+            ScoreStore.timer += Time.deltaTime;
 
-            Debug.Log(timer);
+            Debug.Log(ScoreStore.timer);
         }
         if (stopScore)
         {
-            Invoke("StopTime", 3);
+            Invoke("NextScene", 3);
         }
 
-        Debug.Log(deathCounter);
+        Debug.Log(ScoreStore.deathCounter);
     }
 
     private void OnTriggerEnter2D(Collider2D player)
@@ -46,22 +48,22 @@ public class finalScore : MonoBehaviour
         if (player.gameObject.CompareTag("Player"))
         {
             stopScore = true;
-            finalScoreGrade = FinalGradeCalculator();
+            ScoreStore.finalScoreGrade = FinalGradeCalculator();
+            
         }
     }
 
-    public void StopTime()
+    public void NextScene()
     {
-        Time.timeScale = 0;
 
-        ScoreCanvas.SetActive(true);
+        SceneManager.LoadScene("FinalScore");
 
     }
 
     public float FinalGradeCalculator()
     {
-        finalScoreGrade = ((collectedCollectibles / maxCollectibles) * 100) - deathCounter - (timer / 2);
+        ScoreStore.finalScoreGrade = ((ScoreStore.collectedCollectibles / ScoreStore.maxCollectibles) * 100) - ScoreStore.deathCounter - (ScoreStore.timer / 2);
 
-        return finalScoreGrade;
+        return ScoreStore.finalScoreGrade;
     }
 }

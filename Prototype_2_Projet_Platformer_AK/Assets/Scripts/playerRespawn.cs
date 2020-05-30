@@ -13,7 +13,7 @@ public class playerRespawn : MonoBehaviour
         if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
             playerInputCheckMain.playerRB.position = playerInputCheckMain.respawnPoint;
-            finalScore.deathCounter++;
+            ScoreStore.deathCounter++;
         }
 
         if(collision.tag == "Checkpoint")

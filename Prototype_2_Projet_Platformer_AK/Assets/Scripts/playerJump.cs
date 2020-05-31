@@ -51,9 +51,16 @@ public class playerJump : MonoBehaviour
 
     public void GrabJump()
     {
-        if (playerWall.isWallGrabbing)
+        if (playerWall.isWallGrabbing && playerFlip.isFacingRight)
         {
-            playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerRB.velocity.x, playerInputCheckMain.jumpSpeed);
+            playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+            playerInputCheckMain.playerRB.velocity = new Vector2(-3, playerInputCheckMain.jumpSpeed);
+        }
+        else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight)
+        {
+            playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(3, playerInputCheckMain.jumpSpeed);
         }
 
         if (playerInputCheckMain.playerRB.velocity.y > 0)

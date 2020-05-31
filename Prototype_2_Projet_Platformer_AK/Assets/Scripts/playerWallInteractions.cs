@@ -11,6 +11,7 @@ public class playerWallInteractions : MonoBehaviour
 
     public float gravityScaleHolder;
     public float grabTimeHolder;
+    public float climbingSpeed;
 
     public bool isWallGrabbing;
 
@@ -37,6 +38,17 @@ public class playerWallInteractions : MonoBehaviour
                 playerInputCheckMain.canFlip = true;
 
                 playerJump.GrabJump();
+            }
+
+            if (playerInputCheckMain.playerVerticalMovement > 0)
+            {
+                playerInputCheckMain.playerRB.velocity = new Vector2(0, playerInputCheckMain.playerRB.velocity.y * climbingSpeed);
+
+            }
+            else if (playerInputCheckMain.playerVerticalMovement < 0)
+            {
+                playerInputCheckMain.playerRB.velocity = new Vector2(0, -playerInputCheckMain.slideSpeed);
+
             }
         }
 

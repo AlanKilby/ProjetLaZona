@@ -28,6 +28,7 @@ public class playerControllerMain : MonoBehaviour
     public float grabTime;
     public float coyoteTime;
 
+
     public Vector3 respawnPoint;
 
     public Transform groundCheck;
@@ -44,6 +45,7 @@ public class playerControllerMain : MonoBehaviour
     public bool canMove;
     public bool canFlip;
     public bool justJumped;
+    public bool hasControl;
 
 
     // Start is called before the first frame update
@@ -58,7 +60,11 @@ public class playerControllerMain : MonoBehaviour
         playerJump.coyoteTimeHolder = coyoteTime;
         justJumped = false;
 
-        dashParticles.SetActive(true);
+        dashParticles.SetActive(false);
+
+        hasControl = true;
+
+        
 
     }
 
@@ -85,55 +91,61 @@ public class playerControllerMain : MonoBehaviour
 
     public void InputCheckMain()
     {
-        if (canMove)
+        if (hasControl)
         {
-            playerHorizontalMovement = Input.GetAxisRaw("Horizontal");
-            playerVerticalMovement = Input.GetAxisRaw("Vertical");
+            if (canMove)
+            {
+                playerHorizontalMovement = Input.GetAxisRaw("Horizontal");
+                playerVerticalMovement = Input.GetAxisRaw("Vertical");
+            }
+
+            if (Input.GetButtonDown("Jump") && !playerWall.isWallGrabbing)
+            {
+                playerJump.PlayerJump();
+
+
+            }
+
+            if (Input.GetButtonDown("Dash"))
+            {
+                playerDash.DashAttempt();
+
+
+            }
+
+
+            // Jump Counter reset
+            if (isJumpingUp)
+            {
+                jumpCounter = 0;
+            }
+            else if (!isGrounded && !isTouchingWall && playerJump.coyoteTimeHolder < 0)
+            {
+                jumpCounter = 0;
+            }
+            else if (isGrounded || isTouchingWall)
+            {
+                jumpCounter = 1;
+
+            }
+
+            if (isGrounded)
+            {
+                playerWall.grabTimeHolder = grabTime;
+                justJumped = false;
+            }
+
+
+            if (Input.GetButton("Grab") && !isJumpingUp)
+            {
+                playerWall.WallGrab();
+            }
+            else if (!Input.GetButton("Grab"))
+            {
+                playerWall.NotWallGrabbing();
+            }
         }
-
-        if (Input.GetButtonDown("Jump") && !playerWall.isWallGrabbing)
-        {
-            playerJump.PlayerJump();
-            
-
-        }
-
-        if (Input.GetButtonDown("Dash"))
-        {
-            playerDash.DashAttempt();
-        }
-
-
-        // Jump Counter reset
-        if (isJumpingUp)
-        {
-            jumpCounter = 0;
-        }
-        else if (!isGrounded && !isTouchingWall && playerJump.coyoteTimeHolder < 0)
-        {
-            jumpCounter = 0;
-        }
-        else if (isGrounded || isTouchingWall)
-        {
-            jumpCounter = 1;
-
-        }
-
-        if (isGrounded)
-        {
-            playerWall.grabTimeHolder = grabTime;
-            justJumped = false;
-        }
-
-
-        if (Input.GetButton("Grab") && !isJumpingUp)
-        {
-            playerWall.WallGrab();
-        } 
-        else if (!Input.GetButton("Grab"))
-        {
-            playerWall.NotWallGrabbing();
-        }
+        
     }
 
     

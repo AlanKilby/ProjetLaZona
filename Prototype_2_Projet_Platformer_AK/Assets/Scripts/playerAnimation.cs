@@ -100,5 +100,49 @@ public class playerAnimation : MonoBehaviour
             playerAnim.SetBool("isGrounded", true);
 
         }
+
+        
+
+        // Climbing
+
+        if(playerWall.isWallGrabbing && playerInputCheckMain.playerRB.velocity.y > 0)
+        {
+            playerAnim.SetBool("isClimbing", true);
+        }
+        else if (!playerWall.isWallGrabbing)
+        {
+            playerAnim.SetBool("isClimbing", true);
+
+        }
+
+
+        // Touching Wall
+
+        if (playerInputCheckMain.isTouchingWall)
+        {
+            playerAnim.SetBool("isTouchingWall", true);
+
+        }
+        else
+        {
+            playerAnim.SetBool("isTouchingWall", false);
+
+        }
+
+        //Jump
+        if(playerInputCheckMain.isGrounded && Input.GetButtonDown("Jump"))
+        {
+            playerAnim.SetBool("isJumping", true);
+
+            Invoke("JumpEnd", 0.5f);
+        }
+
+        
+    }
+
+    public void JumpEnd()
+    {
+        playerAnim.SetBool("isJumping", false);
+
     }
 }

@@ -33,7 +33,9 @@ public class playerDash : MonoBehaviour
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDash = false;
             playerInputCheckMain.canFlip = true;
+
             playerInputCheckMain.dashParticles.SetActive(true);
+
 
         }
 
@@ -45,7 +47,9 @@ public class playerDash : MonoBehaviour
             dashTimeLeft = playerInputCheckMain.dashTime;
             groundCheckForDashBonus = false;
             playerInputCheckMain.canFlip = true;
+
             playerInputCheckMain.dashParticles.SetActive(true);
+
 
         }
     }
@@ -106,7 +110,7 @@ public class playerDash : MonoBehaviour
     
     private void NoMoreParticles()
     {
-        playerInputCheckMain.dashParticles.SetActive(false);
+        
     }
 
     //public void WallDash()

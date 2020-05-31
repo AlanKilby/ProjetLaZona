@@ -8,11 +8,23 @@ public class playerRespawn : MonoBehaviour
 
     public finalScore finalScore;
 
+    public Animator playerAnim;
+
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
-            playerInputCheckMain.playerRB.position = playerInputCheckMain.respawnPoint;
+            playerInputCheckMain.hasControl = false;
+            playerInputCheckMain.playerVerticalMovement = 0;
+            playerInputCheckMain.playerHorizontalMovement = 0;
+            
+            playerInputCheckMain.playerRB.velocity = new Vector2(0, 0);
+            playerAnim.SetBool("Death", true);
+            playerAnim.SetBool("Respawn", false);
+
+
+            Invoke("Respawn", 1);
             ScoreStore.deathCounter++;
         }
 
@@ -20,5 +32,23 @@ public class playerRespawn : MonoBehaviour
         {
             playerInputCheckMain.respawnPoint = collision.transform.position;
         }
+    }
+
+    public void Respawn()
+    {
+        playerInputCheckMain.playerRB.position = playerInputCheckMain.respawnPoint;
+        playerAnim.SetBool("Death", false);
+        playerAnim.SetBool("Respawn", true);
+        //playerInputCheckMain.hasControl = true;
+
+        Invoke("MoveAgain",1);
+    }
+
+    public void MoveAgain()
+    {
+
+        playerInputCheckMain.hasControl = true;
+        playerAnim.SetBool("Respawn", false);
+
     }
 }

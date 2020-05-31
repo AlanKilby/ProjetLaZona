@@ -10,11 +10,17 @@ public class playerRespawn : MonoBehaviour
 
     public Animator playerAnim;
 
+    public freezer freezer;
+
+    public shaker shaker;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
+            freezer.Freeze();
+            shaker.Shake();
+
             playerInputCheckMain.hasControl = false;
             playerInputCheckMain.playerVerticalMovement = 0;
             playerInputCheckMain.playerHorizontalMovement = 0;

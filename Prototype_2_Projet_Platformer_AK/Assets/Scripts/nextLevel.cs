@@ -5,11 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class nextLevel : MonoBehaviour
 {
+    public Animator transition;
 
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            transition.SetTrigger("Start");
             Invoke("NextLevelTrigger", 1);
             Debug.Log("Player Triggered");
         }

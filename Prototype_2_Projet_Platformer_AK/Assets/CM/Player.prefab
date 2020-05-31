@@ -233,7 +233,7 @@ MonoBehaviour:
   wallCheckDistance: 0.8
   fallMultiplier: 2
   smallFallMultiplier: 4
-  slideSpeed: 0.5
+  slideSpeed: 1
   grabTime: 3
   coyoteTime: 0.3
   respawnPoint: {x: 0, y: 0, z: 0}
@@ -252,6 +252,7 @@ MonoBehaviour:
   canMove: 0
   canFlip: 0
   justJumped: 0
+  hasControl: 0
 --- !u!114 &678793801682245422
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -335,6 +336,7 @@ MonoBehaviour:
   playerDash: {fileID: 678793801682245419}
   gravityScaleHolder: 0
   grabTimeHolder: 0
+  climbingSpeed: 4
   isWallGrabbing: 0
 --- !u!114 &3211958544985443830
 MonoBehaviour:
@@ -399,6 +401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInputCheckMain: {fileID: 678793801682245417}
   finalScore: {fileID: 0}
+  playerAnim: {fileID: 0}
 --- !u!1 &6500453388414046339
 GameObject:
   m_ObjectHideFlags: 0

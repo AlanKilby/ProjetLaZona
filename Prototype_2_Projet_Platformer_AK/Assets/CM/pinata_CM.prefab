@@ -121,6 +121,9 @@ MonoBehaviour:
   pinataCollider: {fileID: 4748608778730972308}
   pinataSprite: {fileID: 4748608778730972312}
   respawnTimer: 3
+  pinataAnim: {fileID: 4748608778730972313}
+  freezer: {fileID: 0}
+  shaker: {fileID: 0}
 --- !u!61 &4748608778730972308
 BoxCollider2D:
   m_ObjectHideFlags: 0

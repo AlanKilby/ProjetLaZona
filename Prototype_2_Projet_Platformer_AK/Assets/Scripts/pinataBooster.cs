@@ -14,16 +14,27 @@ public class pinataBooster : MonoBehaviour
 
     public float respawnTimer;
 
+    public Animator boosterAnim;
+
+    public freezer freezer;
+    public shaker shaker;
+
 
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            freezer.Freeze();
+            shaker.Shake();
+
+            boosterAnim.SetBool("isRespawn", false);
+
+            boosterAnim.SetBool("isPickedUp", true);
+
             playerDash.dashTimeLeft += playerInputCheckMain.dashTime;
 
             boosterCollider.enabled = false;
 
-            boosterSprite.enabled = false;
 
             Invoke("BoosterRespawn", respawnTimer);
         }
@@ -31,6 +42,10 @@ public class pinataBooster : MonoBehaviour
 
     private void BoosterRespawn()
     {
+        boosterAnim.SetBool("isRespawn", true);
+
+        boosterAnim.SetBool("isPickedUp", false);
+
         boosterCollider.enabled = true;
         boosterSprite.enabled = true;
     }

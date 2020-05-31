@@ -78,16 +78,7 @@ public class playerAnimation : MonoBehaviour
 
 
         //Climbing State
-        if (playerWall.isWallGrabbing && playerInputCheckMain.playerVerticalMovement > 0)
-        {
-            playerAnim.SetBool("isClimbing", true);
-            playerAnim.SetBool("isRunning", false);
-
-        }
-        else
-        {
-            playerAnim.SetBool("isClimbing", false);
-        }
+        
 
         //Grounded Check
         if (!playerInputCheckMain.isGrounded)
@@ -108,10 +99,13 @@ public class playerAnimation : MonoBehaviour
         if(playerWall.isWallGrabbing && playerInputCheckMain.playerRB.velocity.y > 0)
         {
             playerAnim.SetBool("isClimbing", true);
+            playerAnim.SetBool("isWallGrabbing", false);
+
+
         }
         else if (!playerWall.isWallGrabbing)
         {
-            playerAnim.SetBool("isClimbing", true);
+            playerAnim.SetBool("isClimbing", false);
 
         }
 
@@ -130,11 +124,17 @@ public class playerAnimation : MonoBehaviour
         }
 
         //Jump
-        if(playerInputCheckMain.isGrounded && Input.GetButtonDown("Jump"))
+        if(playerInputCheckMain.coyoteTime > 0 && Input.GetButtonDown("Jump"))
         {
             playerAnim.SetBool("isJumping", true);
 
             Invoke("JumpEnd", 0.5f);
+        }
+
+
+        if(playerWall.isWallGrabbing && Input.GetButtonDown("Jump") && playerInputCheckMain.playerRB.velocity.y != 0)
+        {
+            JumpEnd();
         }
 
         

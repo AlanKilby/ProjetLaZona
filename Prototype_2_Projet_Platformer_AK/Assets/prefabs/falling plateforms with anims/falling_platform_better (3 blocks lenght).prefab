@@ -156,6 +156,7 @@ MonoBehaviour:
   checkDistance: 0.2
   isTouchingGround: 0
   initialPosition: {x: 0, y: 0, z: 0}
+  platformAnim: {fileID: 7604166538638412135}
 --- !u!95 &7604166538638412135
 Animator:
   serializedVersion: 3

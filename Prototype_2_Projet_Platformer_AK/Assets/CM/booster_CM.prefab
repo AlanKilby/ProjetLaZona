@@ -101,6 +101,7 @@ MonoBehaviour:
   boosterCollider: {fileID: 4969112103573707907}
   boosterSprite: {fileID: 4969112103573707909}
   respawnTimer: 3
+  boosterAnim: {fileID: 537552489520614407}
 --- !u!61 &4969112103573707907
 BoxCollider2D:
   m_ObjectHideFlags: 0

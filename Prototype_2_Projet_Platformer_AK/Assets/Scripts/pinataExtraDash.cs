@@ -15,14 +15,29 @@ public class pinataExtraDash : MonoBehaviour
 
     public float respawnTimer;
 
+    public Animator pinataAnim;
+
+    public freezer freezer;
+    public shaker shaker;
+
+    private void Start()
+    {
+    }
+
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            freezer.Freeze();
+            shaker.Shake();
+
+            pinataAnim.SetBool("isRespawn", false);
+
+            pinataAnim.SetBool("isPickedUp", true);
             playerDash.groundCheckForDashBonus = true;
             //playerInputCheckMain.canMoveHorizontally = true;
             pinataCollider.enabled = false;
-            pinataSprite.enabled = false;
+            //pinataSprite.enabled = false;
 
             Invoke("PinataRespawn", respawnTimer);
         }
@@ -30,6 +45,10 @@ public class pinataExtraDash : MonoBehaviour
 
     private void PinataRespawn()
     {
+        pinataAnim.SetBool("isPickedUp", false);
+        pinataAnim.SetBool("isRespawn", true);
+
+
         pinataCollider.enabled = true;
         pinataSprite.enabled = true;
     }

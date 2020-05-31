@@ -18,7 +18,9 @@ public class fallPlatform : MonoBehaviour
 
     public bool isTouchingGround;
 
-    public Vector3 initialPosition; 
+    public Vector3 initialPosition;
+
+    public Animator platformAnim;
 
     void Start()
     {
@@ -49,6 +51,8 @@ public class fallPlatform : MonoBehaviour
     {
         if (collider.gameObject.CompareTag("Player") && !isTouchingGround)
         {
+            platformAnim.SetBool("PlayerTouched", true);
+
             Invoke("DropPlatform", standingTime);
 
             Invoke("GetBackUp", standingTime*3);
@@ -62,11 +66,17 @@ public class fallPlatform : MonoBehaviour
     {
         platformRB.velocity = new Vector2(0, -fallingSpeed);
 
+        platformAnim.SetBool("isFalling", true);
+        platformAnim.SetBool("PlayerTouched", false);
+
     }
 
     private void GetBackUp()
     {
         platformRB.velocity = new Vector2(0, 0);
         platformRB.transform.position = initialPosition;
+
+        platformAnim.SetBool("isFalling", false);
+        platformAnim.SetBool("isIdle", true);
     }
 }

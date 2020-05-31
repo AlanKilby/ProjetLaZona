@@ -146,3 +146,4 @@ MonoBehaviour:
     type: 3}
   candyCollider: {fileID: 1642839716252912907}
   candyRenderer: {fileID: 1642839716252912902}
+  candyAnim: {fileID: 1642839716252912903}

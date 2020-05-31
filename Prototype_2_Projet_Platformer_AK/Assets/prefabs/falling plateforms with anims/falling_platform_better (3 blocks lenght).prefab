@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7738770759730838162}
   - component: {fileID: 7738770759730838163}
   - component: {fileID: 7738770759730838167}
+  - component: {fileID: 7604166538638412135}
   m_Layer: 8
   m_Name: falling_platform_better (3 blocks lenght)
   m_TagString: Untagged
@@ -74,7 +75,8 @@ SpriteRenderer:
   m_SortingLayerID: 1330285891
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3d755c8c3ed4a7148953bd5242fa6c1b, type: 3}
+  m_Sprite: {fileID: 4072740769442071608, guid: 0e0def579bac0154598c9dff1cce7d79,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -154,6 +156,25 @@ MonoBehaviour:
   checkDistance: 0.2
   isTouchingGround: 0
   initialPosition: {x: 0, y: 0, z: 0}
+--- !u!95 &7604166538638412135
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7738770759730838188}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0970d14a8d327ce4d8b57f348f40fcee, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &8006257509772086274
 GameObject:
   m_ObjectHideFlags: 0

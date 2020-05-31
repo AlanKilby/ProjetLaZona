@@ -1,5 +1,24 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!95 &7805168755811403385
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4644110495263755009}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f05ce44ba3558ec4bad1161153b72e77, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &5048880370547544924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10,7 +29,7 @@ PrefabInstance:
     - target: {fileID: 459938983874517085, guid: eb5e7de42e8b64746bc8ec4b0f6033fc,
         type: 3}
       propertyPath: m_Name
-      value: falling_platform_better ( 2 blocks lenght)
+      value: falling_platform_better ( 2 blocks lenght) Variant
       objectReference: {fileID: 0}
     - target: {fileID: 459938983874517089, guid: eb5e7de42e8b64746bc8ec4b0f6033fc,
         type: 3}
@@ -84,3 +103,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb5e7de42e8b64746bc8ec4b0f6033fc, type: 3}
+--- !u!1 &4644110495263755009 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 459938983874517085, guid: eb5e7de42e8b64746bc8ec4b0f6033fc,
+    type: 3}
+  m_PrefabInstance: {fileID: 5048880370547544924}
+  m_PrefabAsset: {fileID: 0}

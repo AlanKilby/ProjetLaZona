@@ -9,6 +9,7 @@ public class playerJump : MonoBehaviour
     public playerWallInteractions playerWall;
     public playerDash playerDash;
     public playerFlip playerFlip;
+    public SoundManagement soundManager;
 
     public float coyoteTimeHolder;
 
@@ -16,6 +17,8 @@ public class playerJump : MonoBehaviour
     {
         if(playerInputCheckMain.jumpCounter > 0)
         {
+            soundManager.jump.Play();
+
             playerInputCheckMain.jumpCounter = 0;
             playerInputCheckMain.canFlip = true;
 
@@ -53,15 +56,71 @@ public class playerJump : MonoBehaviour
     {
         if (playerWall.isWallGrabbing && playerFlip.isFacingRight)
         {
+            soundManager.jump.Play();
+
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
-            playerInputCheckMain.playerRB.velocity = new Vector2(-3, playerInputCheckMain.jumpSpeed);
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(-1,0);
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(-5, playerInputCheckMain.jumpSpeed);
         }
         else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight)
         {
+            soundManager.jump.Play();
+
+            playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+            playerInputCheckMain.playerRB.velocity = new Vector2(1, 0);
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(5, playerInputCheckMain.jumpSpeed);
+        }
+        //else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight && playerInputCheckMain.playerRB.velocity.y != 0)
+        //{
+        //    soundManager.jump.Play();
+
+        //    playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(1, 0);
+
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(5, 5);
+        //}
+
+        if (playerInputCheckMain.playerRB.velocity.y > 0)
+        {
+            playerWall.isWallGrabbing = false;
+
+            playerInputCheckMain.isJumpingUp = true;
+        }
+    }
+
+    public void GrabJumpFix()
+    {
+        if (playerWall.isWallGrabbing && playerFlip.isFacingRight)
+        {
+            soundManager.jump.Play();
+
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
 
-            playerInputCheckMain.playerRB.velocity = new Vector2(3, playerInputCheckMain.jumpSpeed);
+            playerInputCheckMain.playerRB.velocity = new Vector2(-1, 0);
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(-5, 5);
         }
+        else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight)
+        {
+            soundManager.jump.Play();
+
+            playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+            playerInputCheckMain.playerRB.velocity = new Vector2(1, 0);
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(5, 5);
+        }
+        //else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight && playerInputCheckMain.playerRB.velocity.y != 0)
+        //{
+        //    soundManager.jump.Play();
+
+        //    playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(1, 0);
+
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(5, 5);
+        //}
 
         if (playerInputCheckMain.playerRB.velocity.y > 0)
         {
@@ -73,7 +132,7 @@ public class playerJump : MonoBehaviour
 
     public void BetterJump()
     {
-        if (playerInputCheckMain.jumpCounter == 0 && !playerDash.isDashing)
+        if (playerInputCheckMain.jumpCounter == 0 && !playerDash.isDashing && !playerWall.isWallGrabbing)
         {
             if (playerInputCheckMain.playerRB.velocity.y <= 0)
             {

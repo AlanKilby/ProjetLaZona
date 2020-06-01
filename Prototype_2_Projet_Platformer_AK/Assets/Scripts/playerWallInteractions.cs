@@ -32,12 +32,25 @@ public class playerWallInteractions : MonoBehaviour
             playerInputCheckMain.playerRB.velocity = new Vector2(0, playerInputCheckMain.playerVerticalMovement);
             playerInputCheckMain.canMoveHorizontally = false;
             playerInputCheckMain.canFlip = false;
+            playerInputCheckMain.isGrounded = false;
 
             if (Input.GetButtonDown("Jump") && playerInputCheckMain.playerVerticalMovement == 0)
             {
                 playerInputCheckMain.canFlip = true;
 
                 playerJump.GrabJump();
+            }
+            else if (Input.GetButtonDown("Jump") && playerInputCheckMain.playerRB.velocity.y > 0)
+            {
+                Debug.Log("ITS USING THE RIGHT JUMP");
+                playerInputCheckMain.canMoveHorizontally = true;
+
+                playerInputCheckMain.playerRB.velocity = new Vector2(0, 0);
+
+                playerInputCheckMain.canFlip = true;
+
+                playerJump.GrabJumpFix();
+
             }
 
             if (playerInputCheckMain.playerVerticalMovement != 0)

@@ -82,6 +82,8 @@ GameObject:
   - component: {fileID: 678793801682245428}
   - component: {fileID: 5969348200265178799}
   - component: {fileID: 2825326990747355574}
+  - component: {fileID: 7706231776512792055}
+  - component: {fileID: 8368536713527070335}
   m_Layer: 10
   m_Name: Player
   m_TagString: Player
@@ -282,6 +284,7 @@ MonoBehaviour:
   playerWall: {fileID: 678793801682245429}
   playerDash: {fileID: 678793801682245419}
   playerFlip: {fileID: 678793801682245418}
+  soundManager: {fileID: 7706231776512792055}
   coyoteTimeHolder: 0
 --- !u!114 &678793801682245419
 MonoBehaviour:
@@ -300,6 +303,7 @@ MonoBehaviour:
   playerWall: {fileID: 678793801682245429}
   freezer: {fileID: 5969348200265178799}
   shaker: {fileID: 0}
+  soundManager: {fileID: 7706231776512792055}
   isDashing: 0
   groundCheckForDash: 0
   groundCheckForDashBonus: 0
@@ -401,7 +405,40 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInputCheckMain: {fileID: 678793801682245417}
   finalScore: {fileID: 0}
-  playerAnim: {fileID: 0}
+  playerAnim: {fileID: 678793801682245428}
+  freezer: {fileID: 5969348200265178799}
+  shaker: {fileID: 0}
+  soundManager: {fileID: 7706231776512792055}
+--- !u!114 &7706231776512792055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678793801682245411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d63226d64bde341a325200202e97dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jump: {fileID: 0}
+  dash: {fileID: 0}
+  death: {fileID: 0}
+  candy: {fileID: 0}
+  pinata: {fileID: 0}
+--- !u!114 &8368536713527070335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678793801682245411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6179e97f1b4589e4395b1f1949999552, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseCanvas: {fileID: 0}
 --- !u!1 &6500453388414046339
 GameObject:
   m_ObjectHideFlags: 0

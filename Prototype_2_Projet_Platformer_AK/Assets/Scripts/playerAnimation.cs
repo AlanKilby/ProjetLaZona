@@ -11,6 +11,9 @@ public class playerAnimation : MonoBehaviour
     public playerDash playerDash;
     public playerWallInteractions playerWall;
 
+
+    
+
     private void Update()
     {
         // Idle to Running 
@@ -127,6 +130,8 @@ public class playerAnimation : MonoBehaviour
         if(playerInputCheckMain.coyoteTime > 0 && Input.GetButtonDown("Jump"))
         {
             playerAnim.SetBool("isJumping", true);
+
+            playerAnim.SetBool("isRunning", false);
 
             Invoke("JumpEnd", 0.5f);
         }

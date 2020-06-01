@@ -19,11 +19,15 @@ public class pinataBooster : MonoBehaviour
     public freezer freezer;
     public shaker shaker;
 
+    public SoundManagement soundManager;
+
 
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            soundManager.pinata.Play();
+
             freezer.Freeze();
             shaker.Shake();
 

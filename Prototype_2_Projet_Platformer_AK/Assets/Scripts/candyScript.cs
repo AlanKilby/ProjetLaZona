@@ -18,10 +18,15 @@ public class candyScript : MonoBehaviour
     public freezer freezer;
     public shaker shaker;
 
+    public SoundManagement soundManager;
+
+
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            soundManager.candy.Play();
+
             freezer.Freeze();
             shaker.Shake();
 

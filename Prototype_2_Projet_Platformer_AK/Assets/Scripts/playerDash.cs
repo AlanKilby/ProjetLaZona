@@ -9,6 +9,7 @@ public class playerDash : MonoBehaviour
     public playerWallInteractions playerWall;
     public freezer freezer;
     public shaker shaker;
+    public SoundManagement soundManager;
 
     public bool isDashing;
     public bool groundCheckForDash;
@@ -27,6 +28,7 @@ public class playerDash : MonoBehaviour
     {
         if (groundCheckForDash)
         {
+
             freezer.Freeze();
             shaker.Shake();
             isDashing = true;
@@ -36,11 +38,14 @@ public class playerDash : MonoBehaviour
 
             playerInputCheckMain.dashParticles.SetActive(true);
 
+            soundManager.dash.Play();
+
 
         }
 
         if (groundCheckForDashBonus)
         {
+
             freezer.Freeze();
             shaker.Shake();
             isDashing = true;
@@ -49,6 +54,8 @@ public class playerDash : MonoBehaviour
             playerInputCheckMain.canFlip = true;
 
             playerInputCheckMain.dashParticles.SetActive(true);
+
+            soundManager.dash.Play();
 
 
         }

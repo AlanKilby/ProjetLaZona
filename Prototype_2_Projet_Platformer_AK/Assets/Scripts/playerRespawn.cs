@@ -14,10 +14,15 @@ public class playerRespawn : MonoBehaviour
 
     public shaker shaker;
 
+    public SoundManagement soundManager;
+
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
+            soundManager.death.Play();
+
             freezer.Freeze();
             shaker.Shake();
 

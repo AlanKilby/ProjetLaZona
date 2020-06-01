@@ -20,6 +20,9 @@ public class pinataExtraDash : MonoBehaviour
     public freezer freezer;
     public shaker shaker;
 
+    public SoundManagement soundManager;
+
+
     private void Start()
     {
     }
@@ -28,6 +31,8 @@ public class pinataExtraDash : MonoBehaviour
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            soundManager.pinata.Play();
+
             freezer.Freeze();
             shaker.Shake();
 

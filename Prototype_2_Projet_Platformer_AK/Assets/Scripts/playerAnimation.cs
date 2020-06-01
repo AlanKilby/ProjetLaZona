@@ -20,7 +20,6 @@ public class playerAnimation : MonoBehaviour
         if(playerInputCheckMain.isGrounded && playerInputCheckMain.playerRB.velocity.x != 0)
         {
             playerAnim.SetBool("isRunning", true);
-            Debug.Log("True");
         }
 
         if(playerInputCheckMain.isGrounded && playerInputCheckMain.playerHorizontalMovement == 0 || playerInputCheckMain.isTouchingWall)
@@ -29,16 +28,16 @@ public class playerAnimation : MonoBehaviour
         }
 
 
-        // Any State to Dashing
-        if (playerDash.isDashing)
-        {
-            playerAnim.SetBool("isDashing", true);
-        }
-        else
-        {
-            playerAnim.SetBool("isDashing", false);
+        //// Any State to Dashing
+        //if (playerDash.isDashing)
+        //{
+        //    playerAnim.SetBool("isDashing", true);
+        //}
+        //else
+        //{
+        //    playerAnim.SetBool("isDashing", false);
 
-        }
+        //}
 
 
 
@@ -87,6 +86,9 @@ public class playerAnimation : MonoBehaviour
         if (!playerInputCheckMain.isGrounded)
         {
             playerAnim.SetBool("isGrounded", false);
+            playerAnim.SetBool("isRunning", false);
+
+
 
         }
         else if (playerInputCheckMain.isGrounded)
@@ -95,11 +97,11 @@ public class playerAnimation : MonoBehaviour
 
         }
 
-        
+
 
         // Climbing
 
-        if(playerWall.isWallGrabbing && playerInputCheckMain.playerRB.velocity.y > 0)
+        if (playerWall.isWallGrabbing && playerInputCheckMain.playerRB.velocity.y > 0)
         {
             playerAnim.SetBool("isClimbing", true);
             playerAnim.SetBool("isWallGrabbing", false);
@@ -126,18 +128,20 @@ public class playerAnimation : MonoBehaviour
 
         }
 
-        //Jump
-        if(playerInputCheckMain.coyoteTime > 0 && Input.GetButtonDown("Jump"))
-        {
-            playerAnim.SetBool("isJumping", true);
+        
 
-            playerAnim.SetBool("isRunning", false);
+        ////Jump
+        //if(playerInputCheckMain.coyoteTime > 0 && Input.GetButtonDown("Jump"))
+        //{
+        //    playerAnim.SetBool("isJumping", true);
 
-            Invoke("JumpEnd", 0.5f);
-        }
+        //    playerAnim.SetBool("isRunning", false);
+
+        //    Invoke("JumpEnd", 0.5f);
+        //}
 
 
-        if(playerWall.isWallGrabbing && Input.GetButtonDown("Jump") && playerInputCheckMain.playerRB.velocity.y != 0)
+        if (playerWall.isWallGrabbing && Input.GetButtonDown("Jump") && playerInputCheckMain.playerRB.velocity.y != 0)
         {
             JumpEnd();
         }

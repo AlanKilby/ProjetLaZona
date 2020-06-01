@@ -34,7 +34,9 @@ public class PauseScript : MonoBehaviour
 
         if(isPaused && Input.GetButtonDown("Quit"))
         {
-            Quit();
+            Time.timeScale = timeScaleHolder;
+
+            SceneManager.LoadScene("MainMenu");
         }
 
     }

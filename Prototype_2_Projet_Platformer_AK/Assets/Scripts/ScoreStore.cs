@@ -14,5 +14,6 @@ public  class ScoreStore : ScriptableObject
 
     public static float finalScoreGrade;
 
-
+    // Credit Fix
+    public static bool creditIsActive;
 }

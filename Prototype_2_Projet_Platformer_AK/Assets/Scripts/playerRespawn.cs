@@ -17,10 +17,16 @@ public class playerRespawn : MonoBehaviour
     public SoundManagement soundManager;
 
 
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
+
         if(collision.tag == "KillZone" || collision.tag == "Spikes")
         {
+
+
+
+
             soundManager.death.Play();
 
             freezer.Freeze();
@@ -47,6 +53,7 @@ public class playerRespawn : MonoBehaviour
 
     public void Respawn()
     {
+
         playerInputCheckMain.playerRB.position = playerInputCheckMain.respawnPoint;
         playerAnim.SetBool("Death", false);
         playerAnim.SetBool("Respawn", true);

@@ -10,6 +10,7 @@ public class playerJump : MonoBehaviour
     public playerDash playerDash;
     public playerFlip playerFlip;
     public SoundManagement soundManager;
+    public Animator playerAnim;
 
     public float coyoteTimeHolder;
 
@@ -17,6 +18,11 @@ public class playerJump : MonoBehaviour
     {
         if(playerInputCheckMain.jumpCounter > 0)
         {
+
+
+            playerAnim.SetBool("isJumping", true);
+            playerAnim.SetBool("isRunning", false);
+
             soundManager.jump.Play();
 
             playerInputCheckMain.jumpCounter = 0;
@@ -44,8 +50,15 @@ public class playerJump : MonoBehaviour
             if(playerInputCheckMain.playerRB.velocity.y < 0)
             {
                 playerInputCheckMain.isFalling = false;
+                playerAnim.SetBool("isJumping", false);
             }
-            
+
+            if (playerInputCheckMain.isJumpingUp)
+            {
+                
+
+            }
+
 
         }
 
@@ -56,6 +69,10 @@ public class playerJump : MonoBehaviour
     {
         if (playerWall.isWallGrabbing && playerFlip.isFacingRight)
         {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
             soundManager.jump.Play();
 
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
@@ -66,6 +83,10 @@ public class playerJump : MonoBehaviour
         }
         else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight)
         {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
             soundManager.jump.Play();
 
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
@@ -85,6 +106,7 @@ public class playerJump : MonoBehaviour
 
         if (playerInputCheckMain.playerRB.velocity.y > 0)
         {
+
             playerWall.isWallGrabbing = false;
 
             playerInputCheckMain.isJumpingUp = true;
@@ -95,6 +117,12 @@ public class playerJump : MonoBehaviour
     {
         if (playerWall.isWallGrabbing && playerFlip.isFacingRight)
         {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
+
+
             soundManager.jump.Play();
 
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
@@ -105,6 +133,12 @@ public class playerJump : MonoBehaviour
         }
         else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight)
         {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
+
+
             soundManager.jump.Play();
 
             playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
@@ -124,6 +158,8 @@ public class playerJump : MonoBehaviour
 
         if (playerInputCheckMain.playerRB.velocity.y > 0)
         {
+            playerAnim.SetBool("isJumping", false);
+
             playerWall.isWallGrabbing = false;
 
             playerInputCheckMain.isJumpingUp = true;
@@ -144,6 +180,13 @@ public class playerJump : MonoBehaviour
                 playerInputCheckMain.playerRB.velocity += Vector2.up * Physics2D.gravity * (playerInputCheckMain.smallFallMultiplier - 1) * Time.deltaTime;
                 playerInputCheckMain.isJumpingUp = false;
             }
+
+        }
+
+        
+        if(!playerInputCheckMain.isJumpingUp)
+        {
+            playerAnim.SetBool("isJumping", false);
 
         }
     }

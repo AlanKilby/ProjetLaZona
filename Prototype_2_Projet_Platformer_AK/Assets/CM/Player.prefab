@@ -285,6 +285,7 @@ MonoBehaviour:
   playerDash: {fileID: 678793801682245419}
   playerFlip: {fileID: 678793801682245418}
   soundManager: {fileID: 7706231776512792055}
+  playerAnim: {fileID: 678793801682245428}
   coyoteTimeHolder: 0
 --- !u!114 &678793801682245419
 MonoBehaviour:
@@ -304,6 +305,7 @@ MonoBehaviour:
   freezer: {fileID: 5969348200265178799}
   shaker: {fileID: 0}
   soundManager: {fileID: 7706231776512792055}
+  playerAnim: {fileID: 678793801682245428}
   isDashing: 0
   groundCheckForDash: 0
   groundCheckForDashBonus: 0

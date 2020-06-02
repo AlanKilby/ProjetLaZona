@@ -22,20 +22,20 @@ public class finalScoreScreen : MonoBehaviour
     {
         
 
-        if (ScoreStore.finalScoreGrade >= 30)
+        if (ScoreStore.finalScoreGrade >= -50)
         {
             scoreGrade = "A";
         }
 
-        if (ScoreStore.finalScoreGrade < 30 && ScoreStore.finalScoreGrade >= 5)
+        if (ScoreStore.finalScoreGrade < - 50 && ScoreStore.finalScoreGrade >= -75)
         {
             scoreGrade = "B";
         }
-        if (ScoreStore.finalScoreGrade < 5 && ScoreStore.finalScoreGrade >= -30)
+        if (ScoreStore.finalScoreGrade < -75 && ScoreStore.finalScoreGrade >= -110)
         {
             scoreGrade = "C";
         }
-        if (ScoreStore.finalScoreGrade < -30)
+        if (ScoreStore.finalScoreGrade < -110)
         {
             scoreGrade = "D";
         }

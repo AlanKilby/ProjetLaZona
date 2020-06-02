@@ -36,6 +36,7 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachinePipeline
     - Cinemachine.CinemachineTransposer
     - Cinemachine.CinemachineVirtualCamera
+    - Cinemachine.PostFX.CinemachinePostProcessing
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridBrushEditor
@@ -78,10 +79,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -96,8 +95,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
-    com.unity.multiplayer-hlapi.Runtime.dll:
-    - UnityEngine.Networking.NetworkCallbacks
   sceneClasses:
     Assets/Scenes/AK_Main_Scene.unity:
     - Class: 1
@@ -246,6 +243,12 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 225
       Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
     - Class: 251
       Script: {instanceID: 0}
     - Class: 19719996
@@ -330,6 +333,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12128}
     - Class: 114
+      Script: {instanceID: 12174}
+    - Class: 114
       Script: {instanceID: 12182}
     - Class: 114
       Script: {instanceID: 12282}
@@ -410,6 +415,12 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
       Script: {instanceID: 0}
     - Class: 251
       Script: {instanceID: 0}
@@ -1912,5 +1923,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Credits_Scene.unity
   - Assets/Scenes/FinalScore.unity
   - Assets/Scenes/Options.unity
-  playerPath: C:/Users/lafon/Documents/Aseprite/fiesta de los muertos home dossier/BUILDS/Odisea
-    AzucaradaBuild3/Odisea Azucarada.exe
+  playerPath: C:/Users/lafon/Documents/Aseprite/fiesta de los muertos home dossier/BUILDS/OdideaAzucaradaBUILD4/Odisea
+    Azucarada.exe

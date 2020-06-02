@@ -20,9 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Credits_Scene.unity
     guid: 09e452157cbe877458495bc69798b678
-  - enabled: 1
-    path: Assets/Scenes/Options_Scene.unity
-    guid: 2b3a6683cc199a745b1cf26d4734de0c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/FinalScore.unity
     guid: 79e49eaa9fdb3c54993dbb07bed4e69e

@@ -224,6 +224,7 @@ MonoBehaviour:
   playerFlip: {fileID: 678793801682245418}
   playerWall: {fileID: 678793801682245429}
   dashParticles: {fileID: 6500453388414046339}
+  playerColl: {fileID: 678793801682245421}
   playerHorizontalMovement: 0
   playerVerticalMovement: 0
   checkRadius: 0.5

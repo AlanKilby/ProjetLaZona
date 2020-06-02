@@ -29401,7 +29401,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2658c0351ba8d54dbcbad3749aeae46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioMixer: {fileID: 24100000, guid: 3b16f417bd1b74245b06ac47d313cfd5, type: 2}
 --- !u!114 &1370479871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34453,8 +34452,8 @@ MonoBehaviour:
   m_FillRect: {fileID: 1557801307}
   m_HandleRect: {fileID: 1377988933}
   m_Direction: 0
-  m_MinValue: -80
-  m_MaxValue: 0
+  m_MinValue: 0
+  m_MaxValue: 1
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:

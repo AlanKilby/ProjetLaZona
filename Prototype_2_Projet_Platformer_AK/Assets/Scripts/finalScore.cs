@@ -18,6 +18,8 @@ public class finalScore : MonoBehaviour
 
     public int maxCollectibles;
 
+    public TransitionManager transitionManager;
+
 
     public void Start()
     {
@@ -47,6 +49,7 @@ public class finalScore : MonoBehaviour
     {
         if (player.gameObject.CompareTag("Player"))
         {
+            Invoke("Transition", 0.1f);
             stopScore = true;
             ScoreStore.finalScoreGrade = FinalGradeCalculator();
             
@@ -65,5 +68,11 @@ public class finalScore : MonoBehaviour
         ScoreStore.finalScoreGrade = ((ScoreStore.collectedCollectibles / ScoreStore.maxCollectibles) * 100) - ScoreStore.deathCounter - (ScoreStore.timer / 2);
 
         return ScoreStore.finalScoreGrade;
+    }
+
+    public void Transition()
+    {
+        transitionManager.transitionsAnim.SetTrigger("end");
+
     }
 }

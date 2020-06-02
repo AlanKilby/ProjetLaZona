@@ -12,6 +12,8 @@ public class playerControllerMain : MonoBehaviour
     public playerWallInteractions playerWall;
 
     public GameObject dashParticles;
+
+    public BoxCollider2D playerColl;
     
     public float playerHorizontalMovement;
     public float playerVerticalMovement;

@@ -16,4 +16,9 @@ public  class ScoreStore : ScriptableObject
 
     // Credit Fix
     public static bool creditIsActive;
+
+    public static float volume = 1;
+
+
+    public static bool godMode = false;
 }

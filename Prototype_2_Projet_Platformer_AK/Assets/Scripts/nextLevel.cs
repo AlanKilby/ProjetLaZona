@@ -5,13 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class nextLevel : MonoBehaviour
 {
-    public Animator transition;
+    public TransitionManager transitionManager;
 
     private void OnTriggerEnter2D(Collider2D player)
     {
         if (player.gameObject.CompareTag("Player"))
         {
-            transition.SetTrigger("Start");
+            Invoke("Transition",0.1f);
             Invoke("NextLevelTrigger", 1);
             Debug.Log("Player Triggered");
         }
@@ -21,6 +21,12 @@ public class nextLevel : MonoBehaviour
     public void NextLevelTrigger()
     {
         SceneManager.LoadScene("CM_Cimetière+ville");
+
+    }
+
+    public void Transition()
+    {
+        transitionManager.transitionsAnim.SetTrigger("end");
 
     }
 }

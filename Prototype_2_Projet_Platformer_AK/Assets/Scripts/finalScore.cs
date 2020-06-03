@@ -39,7 +39,7 @@ public class finalScore : MonoBehaviour
         }
         if (stopScore)
         {
-            Invoke("NextScene", 3);
+            Invoke("NextScene", 1);
         }
 
         Debug.Log(ScoreStore.deathCounter);

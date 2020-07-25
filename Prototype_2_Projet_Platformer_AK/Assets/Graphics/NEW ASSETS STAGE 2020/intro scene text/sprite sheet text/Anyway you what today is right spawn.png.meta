@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 5c3e8052bd539c34a974d7707d8f37c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1485245220004815369
+    second: Anyway you what today is right spawn_0
+  - first:
+      213: 2970244534813820694
+    second: Anyway you what today is right spawn_1
+  - first:
+      213: 6431616898635000350
+    second: Anyway you what today is right spawn_2
+  - first:
+      213: -157206172864744215
+    second: Anyway you what today is right spawn_3
+  - first:
+      213: -7498146264134598154
+    second: Anyway you what today is right spawn_4
+  - first:
+      213: 8121855365262042006
+    second: Anyway you what today is right spawn_5
+  - first:
+      213: -1612327919231808645
+    second: Anyway you what today is right spawn_6
+  - first:
+      213: -5142382278257719886
+    second: Anyway you what today is right spawn_7
+  - first:
+      213: 3779069717391538866
+    second: Anyway you what today is right spawn_8
+  - first:
+      213: 8406793583580001977
+    second: Anyway you what today is right spawn_9
+  - first:
+      213: 2851992773513795590
+    second: Anyway you what today is right spawn_10
+  - first:
+      213: 2889142506934749825
+    second: Anyway you what today is right spawn_11
+  - first:
+      213: 1222663976511435964
+    second: Anyway you what today is right spawn_12
+  - first:
+      213: -792457077763443660
+    second: Anyway you what today is right spawn_13
+  - first:
+      213: 5527366327206592665
+    second: Anyway you what today is right spawn_14
+  - first:
+      213: -8179438327813141989
+    second: Anyway you what today is right spawn_15
+  - first:
+      213: -3030490459521270312
+    second: Anyway you what today is right spawn_16
+  - first:
+      213: -2760614318391860147
+    second: Anyway you what today is right spawn_17
+  - first:
+      213: -5742389467733886192
+    second: Anyway you what today is right spawn_18
+  - first:
+      213: -289673445268966122
+    second: Anyway you what today is right spawn_19
+  - first:
+      213: 6977193935068763978
+    second: Anyway you what today is right spawn_20
+  - first:
+      213: 3841850940133977382
+    second: Anyway you what today is right spawn_21
+  - first:
+      213: -6088298645471561443
+    second: Anyway you what today is right spawn_22
+  - first:
+      213: 7152696505958393894
+    second: Anyway you what today is right spawn_23
+  - first:
+      213: 877436631413434860
+    second: Anyway you what today is right spawn_24
+  - first:
+      213: 8726224838301509459
+    second: Anyway you what today is right spawn_25
+  - first:
+      213: 5070652541828744390
+    second: Anyway you what today is right spawn_26
+  - first:
+      213: -7767126949346899681
+    second: Anyway you what today is right spawn_27
+  - first:
+      213: -5456548754235891653
+    second: Anyway you what today is right spawn_28
+  - first:
+      213: -1231855828158592755
+    second: Anyway you what today is right spawn_29
+  - first:
+      213: 8807791976415781164
+    second: Anyway you what today is right spawn_30
+  - first:
+      213: -3186486033591752086
+    second: Anyway you what today is right spawn_31
+  - first:
+      213: 129938786835353810
+    second: Anyway you what today is right spawn_32
+  - first:
+      213: -8952485895797383106
+    second: Anyway you what today is right spawn_33
+  - first:
+      213: 8939512110629728518
+    second: Anyway you what today is right spawn_34
+  - first:
+      213: -1938020561555795441
+    second: Anyway you what today is right spawn_35
+  - first:
+      213: 7362505648067340302
+    second: Anyway you what today is right spawn_36
+  - first:
+      213: 1633991670536443376
+    second: Anyway you what today is right spawn_37
+  - first:
+      213: 3640049794557441948
+    second: Anyway you what today is right spawn_38
+  - first:
+      213: 7215090842452458006
+    second: Anyway you what today is right spawn_39
+  - first:
+      213: 6974556348983269290
+    second: Anyway you what today is right spawn_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ebbe88a6ac9410800000000000000
+      internalID: 1485245220004815369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 176
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6178f99daad683920800000000000000
+      internalID: 2970244534813820694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 176
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae98e3e71b14950800000000000000
+      internalID: 6431616898635000350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 176
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f5e591dd71ddf0800000000000000
+      internalID: -157206172864744215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 176
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c55c13bb31f790800000000000000
+      internalID: -7498146264134598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936b8b5c60a6b070800000000000000
+      internalID: 8121855365262042006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4eb8cc4cdf99e0800000000000000
+      internalID: -1612327919231808645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 154
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54f2d309692a8b0800000000000000
+      internalID: -5142382278257719886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 154
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bafe86b2e3f17430800000000000000
+      internalID: 3779069717391538866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 154
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b151293eeaa470800000000000000
+      internalID: 8406793583580001977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60855472150549720800000000000000
+      internalID: 2851992773513795590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 132
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac35f7dcb481820800000000000000
+      internalID: 2889142506934749825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 132
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb471af9866c7f010800000000000000
+      internalID: 1222663976511435964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_13
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 132
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4347a248c70a005f0800000000000000
+      internalID: -792457077763443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_14
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 132
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ca9ca36625bc40800000000000000
+      internalID: 5527366327206592665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8b786d2ccc7e80800000000000000
+      internalID: -8179438327813141989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 110
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3609bbf881f5d0800000000000000
+      internalID: -3030490459521270312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 110
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44656e57e350b9d0800000000000000
+      internalID: -2760614318391860147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_18
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 110
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf6cd143fee40b0800000000000000
+      internalID: -5742389467733886192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_19
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 110
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61531e9498fdafbf0800000000000000
+      internalID: -289673445268966122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4798cccae8f3d060800000000000000
+      internalID: 6977193935068763978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 88
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dafa6331ff05530800000000000000
+      internalID: 3841850940133977382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 88
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19fc2e93a4028ba0800000000000000
+      internalID: -6088298645471561443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_23
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 88
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e3d7539b734360800000000000000
+      internalID: 7152696505958393894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_24
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 88
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92058a7f74d2c00800000000000000
+      internalID: 877436631413434860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e625c147c91970800000000000000
+      internalID: 8726224838301509459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 66
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4422f0f939e5640800000000000000
+      internalID: 5070652541828744390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_27
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 66
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1980da013f953490800000000000000
+      internalID: -7767126949346899681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_28
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 66
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306b2c61d17644b0800000000000000
+      internalID: -5456548754235891653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_29
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 66
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09cc14a6a197eee0800000000000000
+      internalID: -1231855828158592755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216cc903209b3a70800000000000000
+      internalID: 8807791976415781164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 44
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a250ec5d357c3d0800000000000000
+      internalID: -3186486033591752086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 44
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0dddf53a2adc100800000000000000
+      internalID: 129938786835353810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_33
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 44
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e306d44928162c380800000000000000
+      internalID: -8952485895797383106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_34
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 44
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601336ba6e68f0c70800000000000000
+      internalID: 8939512110629728518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02501d3194ca15e0800000000000000
+      internalID: -1938020561555795441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 22
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086cd1f0efdc2660800000000000000
+      internalID: 7362505648067340302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 22
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5954064ca1da610800000000000000
+      internalID: 1633991670536443376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 22
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c977459900e048230800000000000000
+      internalID: 3640049794557441948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 22
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7d8ed4e6212460800000000000000
+      internalID: 7215090842452458006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anyway you what today is right spawn_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d71feb0a9ac060800000000000000
+      internalID: 6974556348983269290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: 505af3e93bb966d40aef1f82030e5ae8
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6151426321210613017
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_0"
+  - first:
+      213: 1225662233712572292
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_1"
+  - first:
+      213: -6318949552482251235
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_2"
+  - first:
+      213: 1353957912488156010
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_3"
+  - first:
+      213: -4685599693488245051
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_4"
+  - first:
+      213: 3603395215650583434
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_5"
+  - first:
+      213: 5032110392968517065
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_6"
+  - first:
+      213: -6800227029397895475
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_7"
+  - first:
+      213: -2744983021247966126
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_8"
+  - first:
+      213: -7454170403467805429
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_9"
+  - first:
+      213: 3311086105756662582
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_10"
+  - first:
+      213: -7635609712259453537
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_11"
+  - first:
+      213: -1670510249535114999
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_12"
+  - first:
+      213: -1042996022436843714
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_13"
+  - first:
+      213: -7063144187477515944
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_14"
+  - first:
+      213: -6409893369109956144
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_15"
+  - first:
+      213: 8140245979721169213
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_16"
+  - first:
+      213: 7628176900019056685
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_17"
+  - first:
+      213: 8338473822263690194
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_18"
+  - first:
+      213: -476754584987180401
+    second: "It\u2019s the 2nd of november-spawn-sheet 237X22_19"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -45,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 14
+  spritePixelsToUnits: 28
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -61,7 +121,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -73,7 +133,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -85,7 +145,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d1fb1c5a14e5550800000000000000
+      internalID: 6151426321210613017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_1"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bc07ce4d620110800000000000000
+      internalID: 1225662233712572292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_2"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8eaa7cd49e48a0800000000000000
+      internalID: -6318949552482251235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_3"
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b9fae3c893ac210800000000000000
+      internalID: 1353957912488156010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_4"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c634f577e769feb0800000000000000
+      internalID: -4685599693488245051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_5"
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f1366bd4d10230800000000000000
+      internalID: 3603395215650583434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_6"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5907bbdb5a5d540800000000000000
+      internalID: 5032110392968517065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_7"
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc68ab0cb8db0a1a0800000000000000
+      internalID: -6800227029397895475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_8"
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25459085c7cd7e9d0800000000000000
+      internalID: -2744983021247966126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_9"
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d321e03877d8890800000000000000
+      internalID: -7454170403467805429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_10"
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7b52354753fd20800000000000000
+      internalID: 3311086105756662582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_11"
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da0410c6dd80690800000000000000
+      internalID: -7635609712259453537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_12"
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017fce57c721d8e0800000000000000
+      internalID: -1670510249535114999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_13"
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa184c4a88681f0800000000000000
+      internalID: -1042996022436843714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_14"
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a90c98cbaafd90800000000000000
+      internalID: -7063144187477515944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_15"
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b11e11fb7b07a0800000000000000
+      internalID: -6409893369109956144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_16"
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f495f696f7f070800000000000000
+      internalID: 8140245979721169213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_17"
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f979897abcd960800000000000000
+      internalID: 7628176900019056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_18"
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cbe023c538b370800000000000000
+      internalID: 8338473822263690194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "It\u2019s the 2nd of november-spawn-sheet 237X22_19"
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 0
+        width: 237
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82eccc1b3a3269f0800000000000000
+      internalID: -476754584987180401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

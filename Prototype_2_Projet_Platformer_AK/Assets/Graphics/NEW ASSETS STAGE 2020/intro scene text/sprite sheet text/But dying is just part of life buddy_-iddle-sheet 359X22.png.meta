@@ -104,7 +104,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 359
+        width: 315
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -123,9 +123,9 @@ TextureImporter:
       name: But dying is just part of life buddy_-iddle-sheet 359X22_1
       rect:
         serializedVersion: 2
-        x: 359
+        x: 315
         y: 0
-        width: 359
+        width: 315
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -144,9 +144,9 @@ TextureImporter:
       name: But dying is just part of life buddy_-iddle-sheet 359X22_2
       rect:
         serializedVersion: 2
-        x: 718
+        x: 630
         y: 0
-        width: 359
+        width: 315
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -165,9 +165,9 @@ TextureImporter:
       name: But dying is just part of life buddy_-iddle-sheet 359X22_3
       rect:
         serializedVersion: 2
-        x: 1077
+        x: 945
         y: 0
-        width: 359
+        width: 315
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}

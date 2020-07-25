@@ -197,8 +197,7 @@ SpriteRenderer:
   m_SortingLayerID: 1508681239
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7233390839503138734, guid: 251c06d75fefa5e459e0e09c35c9efee,
-    type: 3}
+  m_Sprite: {fileID: 21300000, guid: fb6ee80a5ea62524dbb7fcf5b9739a0a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -217,7 +216,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 142951947}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 1.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -251,7 +250,7 @@ Animator:
   m_GameObject: {fileID: 358504907}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 910b3b6af45e222459130751be4fb90f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 53a18bdb9c12085499db8f9fcd3e1277, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -298,7 +297,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 805946049
   m_SortingLayer: 1
-  m_SortingOrder: 8
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: 967249a2a5a6708409138b5e3cacddb8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -522,6 +521,12 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 3089974770838501778, guid: fa2e6047efbcc024faa2d87ef4b34864, type: 2}
     value: {fileID: 142951948}
+  - key: {fileID: 6606701352885288228, guid: fa2e6047efbcc024faa2d87ef4b34864, type: 2}
+    value: {fileID: 1364045823}
+  - key: {fileID: -7338683026732602507, guid: fa2e6047efbcc024faa2d87ef4b34864, type: 2}
+    value: {fileID: 358504908}
+  - key: {fileID: 8523456228268549127, guid: fa2e6047efbcc024faa2d87ef4b34864, type: 2}
+    value: {fileID: 1678447840}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1067518326
@@ -619,7 +624,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 3.3, y: 3.3}
+  m_Size: {x: 16.928572, y: 0.78571427}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -715,7 +720,7 @@ SpriteRenderer:
   m_SortingLayerID: 1508681239
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3198701596894364684, guid: e75a416b22de97f4ea7e441b2991b256,
+  m_Sprite: {fileID: -1222480079851641742, guid: e75a416b22de97f4ea7e441b2991b256,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

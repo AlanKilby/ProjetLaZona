@@ -162,7 +162,7 @@ MonoBehaviour:
     value: 0
   tint:
     overrideState: 1
-    value: -40
+    value: -7
   colorFilter:
     overrideState: 1
     value: {r: 0.6731237, g: 0.8552218, b: 1.2729369, a: 1}
@@ -213,7 +213,7 @@ MonoBehaviour:
     value: {x: 1, y: 1, z: 1, w: 0}
   gamma:
     overrideState: 1
-    value: {x: 1, y: 0.77387357, z: 0.3805375, w: 0.04278075}
+    value: {x: 1, y: 0.93565017, z: 0.56071126, w: 0.04278075}
   gain:
     overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0}

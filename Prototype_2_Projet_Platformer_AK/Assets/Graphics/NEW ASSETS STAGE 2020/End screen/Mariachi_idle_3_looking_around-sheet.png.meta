@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 54edd18320f193a4485e0737946a64d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5633694877971918285
+    second: Mariachi_idle_3_looking_around-sheet_0
+  - first:
+      213: 5963710690665581467
+    second: Mariachi_idle_3_looking_around-sheet_1
+  - first:
+      213: 7254200616447636083
+    second: Mariachi_idle_3_looking_around-sheet_2
+  - first:
+      213: -3018668825614730352
+    second: Mariachi_idle_3_looking_around-sheet_3
+  - first:
+      213: 5963311851504084701
+    second: Mariachi_idle_3_looking_around-sheet_4
+  - first:
+      213: 3258808976598834039
+    second: Mariachi_idle_3_looking_around-sheet_5
+  - first:
+      213: 4963240323773845110
+    second: Mariachi_idle_3_looking_around-sheet_6
+  - first:
+      213: 8290936065213412171
+    second: Mariachi_idle_3_looking_around-sheet_7
+  - first:
+      213: -1133503280699688612
+    second: Mariachi_idle_3_looking_around-sheet_8
+  - first:
+      213: 5277800063828011630
+    second: Mariachi_idle_3_looking_around-sheet_9
+  - first:
+      213: 5191530898114697785
+    second: Mariachi_idle_3_looking_around-sheet_10
+  - first:
+      213: 7037978300280984398
+    second: Mariachi_idle_3_looking_around-sheet_11
+  - first:
+      213: -8458877240702597003
+    second: Mariachi_idle_3_looking_around-sheet_12
+  - first:
+      213: -3298648643182072167
+    second: Mariachi_idle_3_looking_around-sheet_13
+  - first:
+      213: -1187955973145706413
+    second: Mariachi_idle_3_looking_around-sheet_14
+  - first:
+      213: -3551749766147037635
+    second: Mariachi_idle_3_looking_around-sheet_15
+  - first:
+      213: 3045916008951800586
+    second: Mariachi_idle_3_looking_around-sheet_16
+  - first:
+      213: 4916507808227443555
+    second: Mariachi_idle_3_looking_around-sheet_17
+  - first:
+      213: 8556561544849842072
+    second: Mariachi_idle_3_looking_around-sheet_18
+  - first:
+      213: -2547987197773753217
+    second: Mariachi_idle_3_looking_around-sheet_19
+  - first:
+      213: -2668761879831777437
+    second: Mariachi_idle_3_looking_around-sheet_20
+  - first:
+      213: 92277907187123928
+    second: Mariachi_idle_3_looking_around-sheet_21
+  - first:
+      213: 8122875570218858564
+    second: Mariachi_idle_3_looking_around-sheet_22
+  - first:
+      213: -2203424848962609215
+    second: Mariachi_idle_3_looking_around-sheet_23
+  - first:
+      213: -4501795537516143537
+    second: Mariachi_idle_3_looking_around-sheet_24
+  - first:
+      213: -2566154517119818602
+    second: Mariachi_idle_3_looking_around-sheet_25
+  - first:
+      213: 5755380652279513471
+    second: Mariachi_idle_3_looking_around-sheet_26
+  - first:
+      213: 2601040104906676555
+    second: Mariachi_idle_3_looking_around-sheet_27
+  - first:
+      213: -484249834603848515
+    second: Mariachi_idle_3_looking_around-sheet_28
+  - first:
+      213: 1922230083538999239
+    second: Mariachi_idle_3_looking_around-sheet_29
+  - first:
+      213: 7038713886673421706
+    second: Mariachi_idle_3_looking_around-sheet_30
+  - first:
+      213: -4831804526952985564
+    second: Mariachi_idle_3_looking_around-sheet_31
+  - first:
+      213: 5538757346054143151
+    second: Mariachi_idle_3_looking_around-sheet_32
+  - first:
+      213: -6489533655118329287
+    second: Mariachi_idle_3_looking_around-sheet_33
+  - first:
+      213: 3244534343698139294
+    second: Mariachi_idle_3_looking_around-sheet_34
+  - first:
+      213: -1170676139793456170
+    second: Mariachi_idle_3_looking_around-sheet_35
+  - first:
+      213: -2659273671728113659
+    second: Mariachi_idle_3_looking_around-sheet_36
+  - first:
+      213: 4169092905642949264
+    second: Mariachi_idle_3_looking_around-sheet_37
+  - first:
+      213: -4960563016713000587
+    second: Mariachi_idle_3_looking_around-sheet_38
+  - first:
+      213: -5234989390594332865
+    second: Mariachi_idle_3_looking_around-sheet_39
+  - first:
+      213: 235943672665447826
+    second: Mariachi_idle_3_looking_around-sheet_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332db896b5811d1b0800000000000000
+      internalID: -5633694877971918285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b425ca64b53c250800000000000000
+      internalID: 5963710690665581467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f7c8b6091ca460800000000000000
+      internalID: 7254200616447636083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b30ba52b88b16d0800000000000000
+      internalID: -3018668825614730352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd627c1b880f1c250800000000000000
+      internalID: 5963311851504084701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b17019f7d993d20800000000000000
+      internalID: 3258808976598834039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4f6137c8f0e440800000000000000
+      internalID: 4963240323773845110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43358e8c625f0370800000000000000
+      internalID: 8290936065213412171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b72295ccf440f0800000000000000
+      internalID: -1133503280699688612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa000f1338e3940800000000000000
+      internalID: 5277800063828011630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a579e88d50c0840800000000000000
+      internalID: 5191530898114697785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d72da9fbeba160800000000000000
+      internalID: 7037978300280984398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578094577f70c9a80800000000000000
+      internalID: -8458877240702597003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eee483988d832d0800000000000000
+      internalID: -3298648643182072167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c8d32658838fe0800000000000000
+      internalID: -1187955973145706413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36aab9d766a5bec0800000000000000
+      internalID: -3551749766147037635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a036f31e874454a20800000000000000
+      internalID: 3045916008951800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c4d48dc1fa3440800000000000000
+      internalID: 4916507808227443555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fda83f3630fb670800000000000000
+      internalID: 8556561544849842072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d378b42bb3acd0800000000000000
+      internalID: -2547987197773753217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe582c537a6fad0800000000000000
+      internalID: -2668761879831777437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d641868446d74100800000000000000
+      internalID: 92277907187123928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f7955b404ab070800000000000000
+      internalID: 8122875570218858564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf905c26ccdb61e0800000000000000
+      internalID: -2203424848962609215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c59e66fc86681c0800000000000000
+      internalID: -4501795537516143537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942f401010336cd0800000000000000
+      internalID: -2566154517119818602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c64eb5383fdf40800000000000000
+      internalID: 5755380652279513471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d18bc130c81420800000000000000
+      internalID: 2601040104906676555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc55e157599749f0800000000000000
+      internalID: -484249834603848515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c759e993122daa10800000000000000
+      internalID: 1922230083538999239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8547cabcf88ea160800000000000000
+      internalID: 7038713886673421706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc7daf16bf1fcb0800000000000000
+      internalID: -4831804526952985564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac74ace57e9ddc40800000000000000
+      internalID: 5538757346054143151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acab0168b80f5a0800000000000000
+      internalID: -6489533655118329287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98cea99bc6e60d20800000000000000
+      internalID: 3244534343698139294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e59cd04ce0cfe0800000000000000
+      internalID: -1170676139793456170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d81c5fac581bd0800000000000000
+      internalID: -2659273671728113659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af27ca8e79bd930800000000000000
+      internalID: 4169092905642949264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a1eee73a882bb0800000000000000
+      internalID: -4960563016713000587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37afaaa2e49957b0800000000000000
+      internalID: -5234989390594332865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariachi_idle_3_looking_around-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d993c258d364300800000000000000
+      internalID: 235943672665447826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

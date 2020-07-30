@@ -194,8 +194,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 805946049
-  m_SortingLayer: 1
+  m_SortingLayerID: -1394885379
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -4127813844192733171, guid: 19e3e0f001ee8de4eb36b8ecd9888178,
     type: 3}
@@ -690,7 +690,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 7735
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -788,6 +788,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Globalpostprocessing
       objectReference: {fileID: 0}
+    - target: {fileID: 1174843925500884187, guid: 6341995d4f685504eb5eb12191efbcca,
+        type: 3}
+      propertyPath: sharedProfile
+      value: 
+      objectReference: {fileID: 11400000, guid: 0c1f7b0b4628e5541a8d8e869d862a59,
+        type: 2}
     - target: {fileID: 1174843925500884196, guid: 6341995d4f685504eb5eb12191efbcca,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2601,7 +2607,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1394885379
   m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 2040148513556832308, guid: 20cb3c026a8b36e458addca7fbaa2347,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

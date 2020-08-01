@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 6cdcfa7186d7a0840b604909d713ef5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9203734275796672530
+    second: One last thing before you go_-spawnt-sheet 281X22_0
+  - first:
+      213: -3569215165768319752
+    second: One last thing before you go_-spawnt-sheet 281X22_1
+  - first:
+      213: -6276962408552455440
+    second: One last thing before you go_-spawnt-sheet 281X22_2
+  - first:
+      213: 1154721095430029814
+    second: One last thing before you go_-spawnt-sheet 281X22_3
+  - first:
+      213: -1991093679895606798
+    second: One last thing before you go_-spawnt-sheet 281X22_4
+  - first:
+      213: 5805165211765413806
+    second: One last thing before you go_-spawnt-sheet 281X22_5
+  - first:
+      213: 7994317339522804434
+    second: One last thing before you go_-spawnt-sheet 281X22_6
+  - first:
+      213: 87628098275283544
+    second: One last thing before you go_-spawnt-sheet 281X22_7
+  - first:
+      213: -1506589740810169047
+    second: One last thing before you go_-spawnt-sheet 281X22_8
+  - first:
+      213: -2750504308077606387
+    second: One last thing before you go_-spawnt-sheet 281X22_9
+  - first:
+      213: 2549101557760067188
+    second: One last thing before you go_-spawnt-sheet 281X22_10
+  - first:
+      213: 1839359011277150019
+    second: One last thing before you go_-spawnt-sheet 281X22_11
+  - first:
+      213: 8349812986703173941
+    second: One last thing before you go_-spawnt-sheet 281X22_12
+  - first:
+      213: 913081292439389140
+    second: One last thing before you go_-spawnt-sheet 281X22_13
+  - first:
+      213: -5225191860860699947
+    second: One last thing before you go_-spawnt-sheet 281X22_14
+  - first:
+      213: 4699810953136088516
+    second: One last thing before you go_-spawnt-sheet 281X22_15
+  - first:
+      213: -3571049670461067527
+    second: One last thing before you go_-spawnt-sheet 281X22_16
+  - first:
+      213: 5523883902065520765
+    second: One last thing before you go_-spawnt-sheet 281X22_17
+  - first:
+      213: 2764591665601126111
+    second: One last thing before you go_-spawnt-sheet 281X22_18
+  - first:
+      213: 8439871815869281964
+    second: One last thing before you go_-spawnt-sheet 281X22_19
+  - first:
+      213: -1931726437861855284
+    second: One last thing before you go_-spawnt-sheet 281X22_20
+  - first:
+      213: -7056900007934339719
+    second: One last thing before you go_-spawnt-sheet 281X22_21
+  - first:
+      213: -296914777706125252
+    second: One last thing before you go_-spawnt-sheet 281X22_22
+  - first:
+      213: -2321796736779153296
+    second: One last thing before you go_-spawnt-sheet 281X22_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5d0c8074c54080800000000000000
+      internalID: -9203734275796672530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc317d97b9977ec0800000000000000
+      internalID: -3569215165768319752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f220c932ffb3e8a0800000000000000
+      internalID: -6276962408552455440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c1c3e7b4660010800000000000000
+      internalID: 1154721095430029814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f90c4fe8d63e54e0800000000000000
+      internalID: -1991093679895606798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_5
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79bb5c007109050800000000000000
+      internalID: 5805165211765413806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_6
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa00cb34581fe60800000000000000
+      internalID: 7994317339522804434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_7
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8529a068a41573100800000000000000
+      internalID: 87628098275283544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_8
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92513ccec94871be0800000000000000
+      internalID: -1506589740810169047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_9
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a4ad397ee34d9d0800000000000000
+      internalID: -2750504308077606387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_10
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760fae6c5a306320800000000000000
+      internalID: 2549101557760067188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_11
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34796918647b68910800000000000000
+      internalID: 1839359011277150019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_12
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d2651cae70e370800000000000000
+      internalID: 8349812986703173941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_13
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d387e6099aebac00800000000000000
+      internalID: 913081292439389140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_14
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab222dfa36c77b0800000000000000
+      internalID: -5225191860860699947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_15
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5aa254925193140800000000000000
+      internalID: 4699810953136088516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_16
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe64e4be35117ec0800000000000000
+      internalID: -3571049670461067527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_17
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703d136427c8ac40800000000000000
+      internalID: 5523883902065520765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_18
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde1921f87dcd5620800000000000000
+      internalID: 2764591665601126111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_19
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca638be33b2702570800000000000000
+      internalID: 8439871815869281964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_20
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf630c1a012135e0800000000000000
+      internalID: -1931726437861855284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_21
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755f93f4dad01e90800000000000000
+      internalID: -7056900007934339719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_22
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382342359521ebf0800000000000000
+      internalID: -296914777706125252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One last thing before you go_-spawnt-sheet 281X22_23
+      rect:
+        serializedVersion: 2
+        x: 6463
+        y: 0
+        width: 281
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701e975b2257cfd0800000000000000
+      internalID: -2321796736779153296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

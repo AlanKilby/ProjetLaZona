@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 1f995ae0549960f4099c3ed5946b4f59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2405899656366722941
+    second: listen i understand it's hard to accept but_0
+  - first:
+      213: -472705691053135879
+    second: listen i understand it's hard to accept but_1
+  - first:
+      213: -7345794807601677873
+    second: listen i understand it's hard to accept but_2
+  - first:
+      213: 2503092226048871659
+    second: listen i understand it's hard to accept but_3
+  - first:
+      213: -2096699570608278619
+    second: listen i understand it's hard to accept but_4
+  - first:
+      213: 8240303063806854895
+    second: listen i understand it's hard to accept but_5
+  - first:
+      213: 148079874676508476
+    second: listen i understand it's hard to accept but_6
+  - first:
+      213: -3620014684915253755
+    second: listen i understand it's hard to accept but_7
+  - first:
+      213: 7920721130430351267
+    second: listen i understand it's hard to accept but_8
+  - first:
+      213: -5445031774022077746
+    second: listen i understand it's hard to accept but_9
+  - first:
+      213: 746961294625769629
+    second: listen i understand it's hard to accept but_10
+  - first:
+      213: 5523237067463329721
+    second: listen i understand it's hard to accept but_11
+  - first:
+      213: -2397187139277914954
+    second: listen i understand it's hard to accept but_12
+  - first:
+      213: 4739197276190137033
+    second: listen i understand it's hard to accept but_13
+  - first:
+      213: 1957747203252314642
+    second: listen i understand it's hard to accept but_14
+  - first:
+      213: -19769651868368748
+    second: listen i understand it's hard to accept but_15
+  - first:
+      213: -4693102752510504813
+    second: listen i understand it's hard to accept but_16
+  - first:
+      213: -3098240386939302330
+    second: listen i understand it's hard to accept but_17
+  - first:
+      213: -1541004925010171471
+    second: listen i understand it's hard to accept but_18
+  - first:
+      213: -5896720158169518093
+    second: listen i understand it's hard to accept but_19
+  - first:
+      213: 4210257880252889515
+    second: listen i understand it's hard to accept but_20
+  - first:
+      213: -4149216915496189768
+    second: listen i understand it's hard to accept but_21
+  - first:
+      213: -6412256871015528709
+    second: listen i understand it's hard to accept but_22
+  - first:
+      213: 2473585631429047458
+    second: listen i understand it's hard to accept but_23
+  - first:
+      213: 3876364165372581928
+    second: listen i understand it's hard to accept but_24
+  - first:
+      213: 7038305581443909588
+    second: listen i understand it's hard to accept but_25
+  - first:
+      213: 3873293891345824452
+    second: listen i understand it's hard to accept but_26
+  - first:
+      213: -8726382562224975336
+    second: listen i understand it's hard to accept but_27
+  - first:
+      213: 1836692230412448094
+    second: listen i understand it's hard to accept but_28
+  - first:
+      213: 7933262876119026858
+    second: listen i understand it's hard to accept but_29
+  - first:
+      213: 8100688465515345701
+    second: listen i understand it's hard to accept but_30
+  - first:
+      213: 1911281615870012253
+    second: listen i understand it's hard to accept but_31
+  - first:
+      213: 5172508795162065299
+    second: listen i understand it's hard to accept but_32
+  - first:
+      213: -1287118905948786967
+    second: listen i understand it's hard to accept but_33
+  - first:
+      213: -5028144439343109785
+    second: listen i understand it's hard to accept but_34
+  - first:
+      213: 249223382215176425
+    second: listen i understand it's hard to accept but_35
+  - first:
+      213: -8285972909472375726
+    second: listen i understand it's hard to accept but_36
+  - first:
+      213: 2594583643041052408
+    second: listen i understand it's hard to accept but_37
+  - first:
+      213: -4894440454175692400
+    second: listen i understand it's hard to accept but_38
+  - first:
+      213: -843300007079685144
+    second: listen i understand it's hard to accept but_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f09fe8df8736120800000000000000
+      internalID: 2405899656366722941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 154
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e871bdac9079f0800000000000000
+      internalID: -472705691053135879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 154
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93efbca8e7e0a90800000000000000
+      internalID: -7345794807601677873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_3
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 154
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4fad1e15ccb220800000000000000
+      internalID: 2503092226048871659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_4
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 154
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3fd2d69d607e2e0800000000000000
+      internalID: -2096699570608278619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe645cf3aff6b5270800000000000000
+      internalID: 8240303063806854895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 132
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374a788cd51e0200800000000000000
+      internalID: 148079874676508476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 132
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ebdefd2df13cdc0800000000000000
+      internalID: -3620014684915253755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_8
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 132
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74b3007ed0ced60800000000000000
+      internalID: 7920721130430351267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_9
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 132
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f2b6537c5f64b0800000000000000
+      internalID: -5445031774022077746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988223075dbd5a00800000000000000
+      internalID: 746961294625769629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 110
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70c6879da76ac40800000000000000
+      internalID: 5523237067463329721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 110
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc74376ffa7bbed0800000000000000
+      internalID: -2397187139277914954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_13
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 110
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cadfc730d205c140800000000000000
+      internalID: 4739197276190137033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_14
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 110
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2126ed175b05b2b10800000000000000
+      internalID: 1957747203252314642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908d0b3b93c9bff0800000000000000
+      internalID: -19769651868368748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_16
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 88
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390143669efbedeb0800000000000000
+      internalID: -4693102752510504813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_17
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 88
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ec6b388c6d005d0800000000000000
+      internalID: -3098240386939302330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_18
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 88
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b924af6f204d9ae0800000000000000
+      internalID: -1541004925010171471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_19
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 88
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffab602244aa2ea0800000000000000
+      internalID: -5896720158169518093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba933453c37dd6a30800000000000000
+      internalID: 4210257880252889515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 66
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0cec7e2350b66c0800000000000000
+      internalID: -4149216915496189768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_22
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 66
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6cf8279561307a0800000000000000
+      internalID: -6412256871015528709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_23
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 66
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b6d2b601f35220800000000000000
+      internalID: 2473585631429047458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_24
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 66
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8281619abac9bc530800000000000000
+      internalID: 3876364165372581928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70d92c2a51da160800000000000000
+      internalID: 7038305581443909588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 44
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cabb58c544b0c530800000000000000
+      internalID: 3873293891345824452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_27
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 44
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812da644b49a5e680800000000000000
+      internalID: -8726382562224975336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_28
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 44
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5134733add3d7910800000000000000
+      internalID: 1836692230412448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_29
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 44
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4ed8bd8c981e60800000000000000
+      internalID: 7933262876119026858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52775277d3d6b6070800000000000000
+      internalID: 8100688465515345701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 22
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5baaa3d08c368a10800000000000000
+      internalID: 1911281615870012253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_32
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 22
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f735185178c740800000000000000
+      internalID: 5172508795162065299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_33
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 22
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeab3bac2c332ee0800000000000000
+      internalID: -1287118905948786967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_34
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 22
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769299dc541783ab0800000000000000
+      internalID: -5028144439343109785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e038ae785b657300800000000000000
+      internalID: 249223382215176425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c93603a8f420d80800000000000000
+      internalID: -8285972909472375726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_37
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6308f9310d10420800000000000000
+      internalID: 2594583643041052408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_38
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996e8ab654731cb0800000000000000
+      internalID: -4894440454175692400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listen i understand it's hard to accept but_39
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 478
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35eee8c1ffb44f0800000000000000
+      internalID: -843300007079685144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

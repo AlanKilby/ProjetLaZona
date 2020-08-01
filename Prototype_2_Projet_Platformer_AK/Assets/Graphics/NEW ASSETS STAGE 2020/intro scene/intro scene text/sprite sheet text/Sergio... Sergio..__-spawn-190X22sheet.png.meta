@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 84eea12ff1ea76a4db6c2dbf1c9bee41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7361971867286890961
+    second: Sergio... Sergio..__-spawn-190X22sheet_0
+  - first:
+      213: 77494640680287512
+    second: Sergio... Sergio..__-spawn-190X22sheet_1
+  - first:
+      213: -77362817021150011
+    second: Sergio... Sergio..__-spawn-190X22sheet_2
+  - first:
+      213: -2188251389673288518
+    second: Sergio... Sergio..__-spawn-190X22sheet_3
+  - first:
+      213: 5312925921697395489
+    second: Sergio... Sergio..__-spawn-190X22sheet_4
+  - first:
+      213: -100134247901935983
+    second: Sergio... Sergio..__-spawn-190X22sheet_5
+  - first:
+      213: 1325084007163370551
+    second: Sergio... Sergio..__-spawn-190X22sheet_6
+  - first:
+      213: -8457480716159201546
+    second: Sergio... Sergio..__-spawn-190X22sheet_7
+  - first:
+      213: -6013672938967188972
+    second: Sergio... Sergio..__-spawn-190X22sheet_8
+  - first:
+      213: 6250002277534207238
+    second: Sergio... Sergio..__-spawn-190X22sheet_9
+  - first:
+      213: 8976820479976202166
+    second: Sergio... Sergio..__-spawn-190X22sheet_10
+  - first:
+      213: -6695351181925867787
+    second: Sergio... Sergio..__-spawn-190X22sheet_11
+  - first:
+      213: -7925062264536894030
+    second: Sergio... Sergio..__-spawn-190X22sheet_12
+  - first:
+      213: -4369067599483660630
+    second: Sergio... Sergio..__-spawn-190X22sheet_13
+  - first:
+      213: -556660132166565298
+    second: Sergio... Sergio..__-spawn-190X22sheet_14
+  - first:
+      213: 4805347483856847342
+    second: Sergio... Sergio..__-spawn-190X22sheet_15
+  - first:
+      213: 6358424520091899979
+    second: Sergio... Sergio..__-spawn-190X22sheet_16
+  - first:
+      213: 9043475944814908017
+    second: Sergio... Sergio..__-spawn-190X22sheet_17
+  - first:
+      213: -8273231265265003441
+    second: Sergio... Sergio..__-spawn-190X22sheet_18
+  - first:
+      213: 6722664132725588113
+    second: Sergio... Sergio..__-spawn-190X22sheet_19
+  - first:
+      213: 5207150300354837609
+    second: Sergio... Sergio..__-spawn-190X22sheet_20
+  - first:
+      213: 9021780923777191808
+    second: Sergio... Sergio..__-spawn-190X22sheet_21
+  - first:
+      213: 722727406979800692
+    second: Sergio... Sergio..__-spawn-190X22sheet_22
+  - first:
+      213: -1229875609452211855
+    second: Sergio... Sergio..__-spawn-190X22sheet_23
+  - first:
+      213: -5536339366384667359
+    second: Sergio... Sergio..__-spawn-190X22sheet_24
+  - first:
+      213: 4373925192005410204
+    second: Sergio... Sergio..__-spawn-190X22sheet_25
+  - first:
+      213: -680105224065307557
+    second: Sergio... Sergio..__-spawn-190X22sheet_26
+  - first:
+      213: -1502100413240038878
+    second: Sergio... Sergio..__-spawn-190X22sheet_27
+  - first:
+      213: -4842650098875715180
+    second: Sergio... Sergio..__-spawn-190X22sheet_28
+  - first:
+      213: 7539505300088008758
+    second: Sergio... Sergio..__-spawn-190X22sheet_29
+  - first:
+      213: 2058405023284874893
+    second: Sergio... Sergio..__-spawn-190X22sheet_30
+  - first:
+      213: 4849905853255222120
+    second: Sergio... Sergio..__-spawn-190X22sheet_31
+  - first:
+      213: -1807920738841838250
+    second: Sergio... Sergio..__-spawn-190X22sheet_32
+  - first:
+      213: 7314031411786532006
+    second: Sergio... Sergio..__-spawn-190X22sheet_33
+  - first:
+      213: 8819725844504673949
+    second: Sergio... Sergio..__-spawn-190X22sheet_34
+  - first:
+      213: 8890616532416166664
+    second: Sergio... Sergio..__-spawn-190X22sheet_35
+  - first:
+      213: -3210879347964868160
+    second: Sergio... Sergio..__-spawn-190X22sheet_36
+  - first:
+      213: -895891771637380207
+    second: Sergio... Sergio..__-spawn-190X22sheet_37
+  - first:
+      213: 4903373250187257988
+    second: Sergio... Sergio..__-spawn-190X22sheet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2612f3979505d990800000000000000
+      internalID: -7361971867286890961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dbeb117f0531100800000000000000
+      internalID: 77494640680287512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc71a48de62deef0800000000000000
+      internalID: -77362817021150011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc44774f4c1a1e0800000000000000
+      internalID: -2188251389673288518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123fcb80afd4bb940800000000000000
+      internalID: 5312925921697395489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19644fb9e604c9ef0800000000000000
+      internalID: -100134247901935983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c168842e4a36210800000000000000
+      internalID: 1325084007163370551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4d9a291ef0aa80800000000000000
+      internalID: -8457480716159201546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3b75e2542b8ca0800000000000000
+      internalID: -6013672938967188972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0fcd15f77cb650800000000000000
+      internalID: 6250002277534207238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfde615aa2149c70800000000000000
+      internalID: 8976820479976202166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe11d2d2955513a0800000000000000
+      internalID: -6695351181925867787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fc63fbd5840290800000000000000
+      internalID: -7925062264536894030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69b15aa24fd53c0800000000000000
+      internalID: -4369067599483660630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4207912f885648f0800000000000000
+      internalID: -556660132166565298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ca95a31600b240800000000000000
+      internalID: 4805347483856847342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481633a969ad3850800000000000000
+      internalID: 6358424520091899979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1729b791571e08d70800000000000000
+      internalID: 9043475944814908017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4459396ff39f2d80800000000000000
+      internalID: -8273231265265003441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904e571963bb4d50800000000000000
+      internalID: 6722664132725588113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf7b80c93834840800000000000000
+      internalID: 5207150300354837609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f822363fdc33d70800000000000000
+      internalID: 9021780923777191808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e587a5fb4a70a00800000000000000
+      internalID: 722727406979800692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711fac36aa9eeee0800000000000000
+      internalID: -1229875609452211855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12571a6dda8fa23b0800000000000000
+      internalID: -5536339366384667359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5d9fb9cd43bc30800000000000000
+      internalID: 4373925192005410204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c23bde6e7cf86f0800000000000000
+      internalID: -680105224065307557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a2cd3f1a7772be0800000000000000
+      internalID: -1502100413240038878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5320
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491b00d74637bccb0800000000000000
+      internalID: -4842650098875715180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630bbe9df14b1a860800000000000000
+      internalID: 7539505300088008758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e46c8767ce09c10800000000000000
+      internalID: 2058405023284874893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638d597da35e4340800000000000000
+      internalID: 4849905853255222120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_32
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3543baa9f8e6e0800000000000000
+      internalID: -1807920738841838250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c59f41d8a08560800000000000000
+      internalID: 7314031411786532006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6460
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e780a3de5f56a70800000000000000
+      internalID: 8819725844504673949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b71e8b1a0d16b70800000000000000
+      internalID: 8890616532416166664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98ae7be3aa073d0800000000000000
+      internalID: -3210879347964868160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bcb5a2e272193f0800000000000000
+      internalID: -895891771637380207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sergio... Sergio..__-spawn-190X22sheet_38
+      rect:
+        serializedVersion: 2
+        x: 7220
+        y: 0
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488609aedf74c0440800000000000000
+      internalID: 4903373250187257988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

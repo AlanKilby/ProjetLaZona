@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: c278a85c96cceb344908b0695d70b1ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6093871531619210839
+    second: control panel WASD sheet_0
+  - first:
+      213: -2450268111240054902
+    second: control panel WASD sheet_1
+  - first:
+      213: -9207870979422688808
+    second: control panel WASD sheet_2
+  - first:
+      213: 1558473161956364204
+    second: control panel WASD sheet_3
+  - first:
+      213: -3818506845781431891
+    second: control panel WASD sheet_4
+  - first:
+      213: 6882601476356862900
+    second: control panel WASD sheet_5
+  - first:
+      213: -1060350988353699598
+    second: control panel WASD sheet_6
+  - first:
+      213: 8788119709544848245
+    second: control panel WASD sheet_7
+  - first:
+      213: -7934817179018822720
+    second: control panel WASD sheet_8
+  - first:
+      213: 2322575609751500397
+    second: control panel WASD sheet_9
+  - first:
+      213: 1981229312640581583
+    second: control panel WASD sheet_10
+  - first:
+      213: -7586920875426822634
+    second: control panel WASD sheet_11
+  - first:
+      213: 6768390523376216000
+    second: control panel WASD sheet_12
+  - first:
+      213: 6562139444607174281
+    second: control panel WASD sheet_13
+  - first:
+      213: -3219115968226181562
+    second: control panel WASD sheet_14
+  - first:
+      213: 1549867577419953805
+    second: control panel WASD sheet_15
+  - first:
+      213: 3155763858832100598
+    second: control panel WASD sheet_16
+  - first:
+      213: -7268335205001904706
+    second: control panel WASD sheet_17
+  - first:
+      213: -7699067653461420357
+    second: control panel WASD sheet_18
+  - first:
+      213: 6874654510937156723
+    second: control panel WASD sheet_19
+  - first:
+      213: -4383448990824951189
+    second: control panel WASD sheet_20
+  - first:
+      213: 811595155117350464
+    second: control panel WASD sheet_21
+  - first:
+      213: -6538693155329516666
+    second: control panel WASD sheet_22
+  - first:
+      213: -7967502646859388110
+    second: control panel WASD sheet_23
+  - first:
+      213: -4601132072109758887
+    second: control panel WASD sheet_24
+  - first:
+      213: 3791949321738841579
+    second: control panel WASD sheet_25
+  - first:
+      213: 6077802625374898653
+    second: control panel WASD sheet_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: control panel WASD sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756570d0fd7c19450800000000000000
+      internalID: 6093871531619210839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 505
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b1198226eefdd0800000000000000
+      internalID: -2450268111240054902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 505
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e1ed2122173080800000000000000
+      internalID: -9207870979422688808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 505
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf836a651fc0a510800000000000000
+      internalID: 1558473161956364204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 505
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9eccc4140f10bc0800000000000000
+      internalID: -3818506845781431891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b374d0c399e38f50800000000000000
+      internalID: 6882601476356862900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 404
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f081f1e460e841f0800000000000000
+      internalID: -1060350988353699598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 404
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b970b705ca5f970800000000000000
+      internalID: 8788119709544848245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 404
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb7aeee0ddd1e190800000000000000
+      internalID: -7934817179018822720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 404
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66793726327b3020800000000000000
+      internalID: 2322575609751500397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf7886109dbe7b10800000000000000
+      internalID: 1981229312640581583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616403939a7d5b690800000000000000
+      internalID: -7586920875426822634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 303
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7a5fe02572eed50800000000000000
+      internalID: 6768390523376216000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 303
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c362ae07611b50800000000000000
+      internalID: 6562139444607174281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 303
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e371f15176353d0800000000000000
+      internalID: -3219115968226181562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f201a95c328510800000000000000
+      internalID: 1549867577419953805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc04b872868bcb20800000000000000
+      internalID: 3155763858832100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd356de3afa12b90800000000000000
+      internalID: -7268335205001904706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65bb5b2ca672590800000000000000
+      internalID: -7699067653461420357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c22fdaadda76f50800000000000000
+      internalID: 6874654510937156723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6295da0e5cda23c0800000000000000
+      internalID: -4383448990824951189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e923a5e7d534b00800000000000000
+      internalID: 811595155117350464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 101
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5e4df735e145a0800000000000000
+      internalID: -6538693155329516666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 101
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b26fa6e8ebd6190800000000000000
+      internalID: -7967502646859388110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 101
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ad3d12ce7520c0800000000000000
+      internalID: -4601132072109758887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bede68841d5bf9430800000000000000
+      internalID: 3791949321738841579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: control panel WASD sheet_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd948644941b85450800000000000000
+      internalID: 6077802625374898653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

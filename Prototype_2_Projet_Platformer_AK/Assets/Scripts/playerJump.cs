@@ -36,7 +36,16 @@ public class playerJump : MonoBehaviour
             }
             else if (playerInputCheckMain.isTouchingWall && !playerInputCheckMain.isGrounded)
             {
-                playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerHorizontalMovement, playerInputCheckMain.jumpSpeed);
+                //playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerHorizontalMovement, playerInputCheckMain.jumpSpeed);
+                if (playerFlip.isFacingRight)
+                {
+                    playerInputCheckMain.playerRB.velocity = new Vector2(-5, playerInputCheckMain.jumpSpeed);
+                }
+                else if (!playerFlip.isFacingRight)
+                {
+
+                    playerInputCheckMain.playerRB.velocity = new Vector2(10, playerInputCheckMain.jumpSpeed);
+                }
                 Debug.Log("c suila");
                 coyoteTimeHolder = 0;
 
@@ -188,6 +197,46 @@ public class playerJump : MonoBehaviour
         {
             playerAnim.SetBool("isJumping", false);
 
+        }
+    }
+
+
+    public void WallJump()
+    {
+        if (playerFlip.isFacingRight && playerInputCheckMain.isTouchingWall)
+        {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
+            soundManager.jump.Play();
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(-10, playerInputCheckMain.jumpSpeed);
+        }
+        else if (!playerFlip.isFacingRight && playerInputCheckMain.isTouchingWall)
+        {
+            playerAnim.SetBool("isRunning", false);
+
+            playerAnim.SetBool("isJumping", true);
+
+            soundManager.jump.Play();
+
+
+            playerInputCheckMain.playerRB.velocity = new Vector2(10, playerInputCheckMain.jumpSpeed);
+        }
+        //else if (playerWall.isWallGrabbing && !playerFlip.isFacingRight && playerInputCheckMain.playerRB.velocity.y != 0)
+        //{
+        //    soundManager.jump.Play();
+
+        //    playerInputCheckMain.playerRB.gravityScale = playerWall.gravityScaleHolder;
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(1, 0);
+
+        //    playerInputCheckMain.playerRB.velocity = new Vector2(5, 5);
+        //}
+
+        if (playerInputCheckMain.playerRB.velocity.y > 0)
+        {
+            playerInputCheckMain.isJumpingUp = true;
         }
     }
 

@@ -26,6 +26,8 @@ public class playerWallInteractions : MonoBehaviour
         {
             playerInputCheckMain.playerRB.velocity = new Vector2(playerInputCheckMain.playerRB.velocity.x, -playerInputCheckMain.slideSpeed);
         }
+
+       
         
         else if (isWallGrabbing)
         {

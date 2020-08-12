@@ -18,7 +18,7 @@ MonoBehaviour:
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 4.333333333333333
+  windowTime: 0
   verticalScroll: 0
   showMarkerHeader: 0
   m_Keys:
@@ -62,7 +62,7 @@ MonoBehaviour:
       height: 1
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
-  - collapsed: 0
+  - collapsed: 1
     showMarkers: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100

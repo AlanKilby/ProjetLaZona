@@ -31,14 +31,14 @@ public class fallPlatform : MonoBehaviour
     private void Update()
     {
         
-        isTouchingGround = Physics2D.Raycast(groundcheck2.position, -transform.up, checkDistance, ground);
+        //isTouchingGround = Physics2D.Raycast(groundcheck2.position, -transform.up, checkDistance, ground);
         
 
-        if (isTouchingGround/* || groundcheck2 || groundcheck3*/)
-        {
-            platformRB.velocity = new Vector2(0, 0);
+        //if (isTouchingGround/* || groundcheck2 || groundcheck3*/)
+        //{
+        //    platformRB.velocity = new Vector2(0, 0);
 
-        }
+        //}
 
     }
 
@@ -79,4 +79,7 @@ public class fallPlatform : MonoBehaviour
         platformAnim.SetBool("isFalling", false);
         platformAnim.SetBool("isIdle", true);
     }
+
+    
+
 }

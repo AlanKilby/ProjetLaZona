@@ -201,5 +201,11 @@ public class playerControllerMain : MonoBehaviour
             playerJump.coyoteTimeHolder = coyoteTime;
 
         }
+
+        if (isTouchingWall)
+        {
+            playerJump.coyoteTimeHolder = coyoteTime/2;
+
+        }
     }
 }

@@ -774,6 +774,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LVL LOADER 2.0
       objectReference: {fileID: 0}
+    - target: {fileID: 7031203514072621645, guid: 014d9b8d7300ada4590d4093c580152c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7031203514072621646, guid: 014d9b8d7300ada4590d4093c580152c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1348,6 +1353,12 @@ PlayableDirector:
   - key: {fileID: -7142034612341017260, guid: 0e6989a6b45a67547892eec9b0966db7, type: 2}
     value: {fileID: 2133849010}
   - key: {fileID: -8631935926790728748, guid: 0e6989a6b45a67547892eec9b0966db7, type: 2}
+    value: {fileID: 2133849010}
+  - key: {fileID: 4005863725773357358, guid: 0e6989a6b45a67547892eec9b0966db7, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -1773013787680123760, guid: 0e6989a6b45a67547892eec9b0966db7, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 8075087771711140661, guid: 0e6989a6b45a67547892eec9b0966db7, type: 2}
     value: {fileID: 2133849010}
   m_ExposedReferences:
     m_References: []
@@ -7114,7 +7125,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0

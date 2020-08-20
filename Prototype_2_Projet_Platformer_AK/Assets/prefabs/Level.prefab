@@ -44,8 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e267738ae30844448b40202493f47c67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DogAnimController: {fileID: 0}
-  AnimationIndex: 0
+  DogDirector: {fileID: 0}
+  triggerCollider: {fileID: 2017466765718763609}
 --- !u!61 &2017466765718763609
 BoxCollider2D:
   m_ObjectHideFlags: 0

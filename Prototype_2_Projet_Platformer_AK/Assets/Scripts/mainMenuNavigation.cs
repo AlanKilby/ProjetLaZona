@@ -8,7 +8,7 @@ public class mainMenuNavigation : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("AK_Main_Scene");
+        SceneManager.LoadScene("Intro_Cutscene");
     }
 
 

@@ -38,7 +38,14 @@ public class playerDash : MonoBehaviour
             groundCheckForDash = false;
             playerInputCheckMain.canFlip = true;
 
-            playerInputCheckMain.dashParticles.SetActive(true);
+            if(playerFlip.isFacingRight == true)
+            {
+                playerInputCheckMain.dashParticles.SetActive(true);
+            }
+            if (playerFlip.isFacingRight == false)
+            {
+                playerInputCheckMain.dashParticlesFlip.SetActive(true);
+            }
 
             soundManager.dash.Play();
 
@@ -56,7 +63,14 @@ public class playerDash : MonoBehaviour
             groundCheckForDashBonus = false;
             playerInputCheckMain.canFlip = true;
 
-            playerInputCheckMain.dashParticles.SetActive(true);
+            if (playerFlip.isFacingRight == true)
+            {
+                playerInputCheckMain.dashParticles.SetActive(true);
+            }
+            if (playerFlip.isFacingRight == false)
+            {
+                playerInputCheckMain.dashParticlesFlip.SetActive(true);
+            }
 
             soundManager.dash.Play();
 
@@ -111,6 +125,7 @@ public class playerDash : MonoBehaviour
             playerAnim.SetBool("isDashing", false);
 
             playerInputCheckMain.dashParticles.SetActive(false);
+            playerInputCheckMain.dashParticlesFlip.SetActive(false);
 
         }
 

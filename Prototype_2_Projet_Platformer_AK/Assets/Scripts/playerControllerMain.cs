@@ -12,6 +12,8 @@ public class playerControllerMain : MonoBehaviour
     public playerWallInteractions playerWall;
 
     public GameObject dashParticles;
+    public GameObject dashParticlesFlip;
+
 
     public BoxCollider2D playerColl;
     
@@ -63,6 +65,8 @@ public class playerControllerMain : MonoBehaviour
         justJumped = false;
 
         dashParticles.SetActive(false);
+        dashParticlesFlip.SetActive(false);
+
 
         hasControl = true;
 

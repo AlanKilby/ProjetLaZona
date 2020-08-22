@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/MainMenu.unity
-=======
-- path: "Assets/Scenes/CM_Cimeti\xE8re+ville.unity"
->>>>>>> updated_code
+- path: Assets/Scenes/AK_Main_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

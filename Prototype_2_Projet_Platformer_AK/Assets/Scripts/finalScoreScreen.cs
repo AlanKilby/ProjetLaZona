@@ -52,6 +52,8 @@ public class finalScoreScreen : MonoBehaviour
         Debug.Log(ScoreStore.deathCounter);
         Debug.Log(ScoreStore.collectedCollectibles);
         Debug.Log(scoreGrade);
+
+        ScoreStore.timer = 0;
     }
 
 

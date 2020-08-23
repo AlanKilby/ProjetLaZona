@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\AnimatedTile\AnimatedTile.cs" />
     <Compile Include="Assets\CM\Room.cs" />
+    <Compile Include="Assets\ScoreReset.cs" />
     <Compile Include="Assets\Scripts\AnimationTrigger.cs" />
     <Compile Include="Assets\Scripts\DogAnimController.cs" />
     <Compile Include="Assets\Scripts\GodMode.cs" />

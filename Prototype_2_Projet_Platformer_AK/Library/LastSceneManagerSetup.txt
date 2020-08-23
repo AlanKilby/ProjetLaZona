@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FinalScore.unity
+- path: "Assets/Scenes/CM_Cimeti\xE8re+ville.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0

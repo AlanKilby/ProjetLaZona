@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/Scenes/AK_Main_Scene.unity
+=======
+- path: "Assets/Scenes/CM_Cimeti\xE8re+ville.unity"
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -43,7 +43,6 @@ ScriptsOnlyBuild:
     - Cinemachine.PostFX.CinemachinePostProcessing
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -81,9 +80,12 @@ ScriptsOnlyBuild:
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.Timeline.Editor.dll:
+    - UnityEditor.Timeline.ClipInspector
+    - UnityEditor.Timeline.EditorClip
     - UnityEditor.Timeline.SequenceHierarchy
     - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
+    - UnityEngine.Timeline.AudioPlayableAssetInspector
     Unity.Timeline.dll:
     - UnityEngine.Timeline.ActivationPlayableAsset
     - UnityEngine.Timeline.ActivationTrack
@@ -661,6 +663,12 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 225
       Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
     - Class: 320
       Script: {instanceID: 0}
     Assets/Scenes/Intro_Cutscene.unity:
@@ -741,6 +749,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
       Script: {instanceID: 0}
     - Class: 320
       Script: {instanceID: 0}
@@ -850,6 +864,12 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
       Script: {instanceID: 0}
     - Class: 320
       Script: {instanceID: 0}
@@ -2161,4 +2181,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Options.unity
   - Assets/Scenes/Intro_Cutscene.unity
   playerPath: C:/Users/lafon/Documents/Pixel Art/Aseprite/fiesta de los muertos home
-    dossier/BUILDS/OdiseaAzucaradBUILD1.7/Odisea Azucarada.exe
+    dossier/BUILDS/OdiseaAzucaradBUILD1.8/Odisea Azucarada.exe
